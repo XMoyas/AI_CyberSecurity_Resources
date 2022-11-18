@@ -90,6 +90,7 @@
 
 #### Web安全之XSS检测
 **1、XSS攻击之原理篇**
+
 **2、AI + XSS攻击检测(博客等)**
 
 * [XSSChop：XSS语义分析](https://blog.51cto.com/u_15127693/4117204)
@@ -145,9 +146,13 @@
 ---
 
 ## AI+CyberSecurity数据合集
-1、[HTTP DATASET CSIC 2010](https://www.tic.itefi.csic.es/dataset/)：包含SQL注入、XSS等攻击数据；
+1、[HTTP DATASET CSIC 2010](https://www.tic.itefi.csic.es/dataset/)：包含SQL注入、XSS等攻击数据
+
 2、[www.xssed.com](http://www.xssed.com/)：包含XSS攻击数据集
+
 3、https://github.com/foospidy/payloads：包含XSS、SQLi等各种数据集
+
 4、https://github.com/duoergun0729/1book/tree/master/data：包括XSS、SQLI、Webshell、DGA、KDDcup99等各种数据集
+
 5、https://github.com/swisskyrepo/PayloadsAllTheThing：包含SQLi、XSS等各种数据集
 
