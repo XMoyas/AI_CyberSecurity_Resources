@@ -10,22 +10,22 @@
 
 1. 天池 . [阿里云webshell文本检测大赛](https://tianchi.aliyun.com/competition/entrance/532035/introduction) ，**进行中**，初赛：2022.10.24~2022.11.25
 
-2. DataCon.[大数据安全分析竞赛]([DataCon社区 (qianxin.com)](https://datacon.qianxin.com/datacon2022))，**即将开始，报名阶段**，2022.12.01~2022.12.10
+2. DataCon.[大数据安全分析竞赛](https://datacon.qianxin.com/datacon2022)，**即将开始，报名阶段**，2022.12.01~2022.12.10
 
 **已结束**
 
-1. DataFountain.[Web攻击检测与分类识别]([Web攻击检测与分类识别 竞赛 - DataFountain](https://www.datafountain.cn/competitions/596))，**已结束**， 2022.8.20~2022.11.18
+1. DataFountain.[Web攻击检测与分类识别 竞赛 - DataFountain](https://www.datafountain.cn/competitions/596)，**已结束**， 2022.8.20~2022.11.18
 
-2. DataFountain.[大数据平台安全事件检测与分类识别]([大数据平台安全事件检测与分类识别 竞赛 - DataFountain](https://www.datafountain.cn/competitions/595))，**已结束**，2022.8.20~2022.11
-3. DataFountain.[基于人工智能的漏洞数据分类]([基于人工智能的漏洞数据分类 竞赛 - DataFountain](https://www.datafountain.cn/competitions/594))，**已结束**，2022.8.20~2022.11
-4. DataFountain.[Linux跨平台二进制函数识别]([Linux跨平台二进制函数识别 竞赛 - DataFountain](https://www.datafountain.cn/competitions/593))，**已结束**，2022.8.20~2022.11
+2. DataFountain.[大数据平台安全事件检测与分类识别 竞赛 - DataFountain](https://www.datafountain.cn/competitions/595)，**已结束**，2022.8.20~2022.11
+3. DataFountain.[基于人工智能的漏洞数据分类 竞赛 - DataFountain](https://www.datafountain.cn/competitions/594)，**已结束**，2022.8.20~2022.11
+4. DataFountain.[Linux跨平台二进制函数识别 竞赛 - DataFountain](https://www.datafountain.cn/competitions/593)，**已结束**，2022.8.20~2022.11
 
 ---
 
 ## 优秀的AI CyberSecurity Github&博客
-1、[我的AI安全检测学习笔记](https://4o4notfound.org/index.php/archives/127/)
-2、[dataRisk-detection-resources](https://github.com/LiaoWenzhe/dataRisk-detection-resources/blob/main/README_zh-CN.md)
-3、[网络安全中机器学习大合集](https://github.com/jivoi/awesome-ml-for-cybersecurity/blob/master/README_ch.md)
+* [我的AI安全检测学习笔记](https://4o4notfound.org/index.php/archives/127/) 
+* [dataRisk-detection-resources](https://github.com/LiaoWenzhe/dataRisk-detection-resources/blob/main/README_zh-CN.md) 
+* [网络安全中机器学习大合集](https://github.com/jivoi/awesome-ml-for-cybersecurity/blob/master/README_ch.md)
 
 ---
 
