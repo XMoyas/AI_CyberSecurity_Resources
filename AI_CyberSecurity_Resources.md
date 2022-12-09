@@ -8,7 +8,7 @@
 ## AI CyberSecurity比赛
 **进行中|待进行**
 
-1. 天池 . [阿里云webshell文本检测大赛](https://tianchi.aliyun.com/competition/entrance/532035/introduction) ，**已结束**，初赛：2022.10.24~2022.11.25
+1. 天池 . 天池 . 阿里云webshell文本检测大赛 [[赛事官网](https://tianchi.aliyun.com/competition/entrance/532035/introduction)]，**已结束**，初赛：2022.10.24~2022.11.25
 
 2. DataCon.[大数据安全分析竞赛](https://datacon.qianxin.com/datacon2022)，**进行中**，2022.12.01~2022.12.10
 
