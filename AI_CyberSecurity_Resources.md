@@ -81,7 +81,7 @@
 
 **6、SQLi攻击检测与防御论文之语义分析**
 
-* Long short-term memory on abstract systax tree for SQL injection detection，2020，IET [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/sfw2.12018]
+* Long short-term memory on abstract systax tree for SQL injection detection，2020，IET [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/sfw2.12018)]
 * Attack Intention Estimation Based on Syntax Analysis and Dynamic Analysis for SQL Injection, 2020, IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/9202752)]
 
 **7、SQLi攻击检测与防御论文之对抗攻击**
@@ -103,7 +103,8 @@
 
 **4、XSS攻击检测与防御论文之综述**
 **5、XSS攻击检测与防御论文之ML/DL**
-* GraphXSS: An efficient XSS payload detection approach based on graph convolutional network [[Paper](https://dl.acm.org/doi/10.1016/j.cose.2021.102597)]
+* GraphXSS: An efficient XSS payload detection approach based on graph convolutional network [[Paper](https://dl.acm.org/doi/10.1016/j.cose.2021.102597)] 
+
 **6、XSS攻击检测与防御论文之语义分析**
 **7、XSS攻击检测与防御论文之对抗攻击**
 * Black-box adversarial attacks on XSS attack detection model，2021，Computer and Security [[Paper](https://dl.acm.org/doi/10.1016/j.cose.2021.102554)]
@@ -149,11 +150,11 @@
 ## AI+CyberSecurity数据合集
 1、HTTP DATASET CSIC 2010 ：包含SQL注入、XSS等攻击数据 [[DataSet](https://www.tic.itefi.csic.es/dataset/)]
 
-2、www.xssed.com ：包含XSS攻击数据集 [[DataSet](http://www.xssed.com/)]
+2、xssed ：包含XSS攻击数据集 [[DataSet](http://www.xssed.com/)]
 
-3、https://github.com/foospidy/payloads：包含XSS、SQLi等各种数据集 [[DataSet](https://github.com/foospidy/payloads)]
+3、foospidy payloads：包含XSS、SQLi等各种数据集 [[DataSet](https://github.com/foospidy/payloads)]
 
-4、https://github.com/duoergun0729/1book/tree/master/data：包括XSS、SQLI、Webshell、DGA、KDDcup99等各种数据集 [[DataSet](https://github.com/duoergun0729/1book/tree/master/data)]
+4、Web安全书籍数据集：包括XSS、SQLI、Webshell、DGA、KDDcup99等各种数据集 [[DataSet](https://github.com/duoergun0729/1book/tree/master/data)]
 
-5、https://github.com/swisskyrepo/PayloadsAllTheThing：包含SQLi、XSS等各种数据集 [[DataSet](https://github.com/swisskyrepo/PayloadsAllTheThing)]
+5、swisskyrepo PayloadsAllTheThing：包含SQLi、XSS等各种数据集 [[DataSet](https://github.com/swisskyrepo/PayloadsAllTheThing)]
 
