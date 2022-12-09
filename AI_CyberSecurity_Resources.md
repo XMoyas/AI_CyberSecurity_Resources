@@ -10,22 +10,22 @@
 
 1. 天池 . 天池 . 阿里云webshell文本检测大赛 [[赛事官网](https://tianchi.aliyun.com/competition/entrance/532035/introduction)]，**已结束**，初赛：2022.10.24~2022.11.25
 
-2. DataCon.[大数据安全分析竞赛](https://datacon.qianxin.com/datacon2022)，**进行中**，2022.12.01~2022.12.10
+2. DataCon.大数据安全分析竞赛 [[赛事官网](https://datacon.qianxin.com/datacon2022)]，**进行中**，2022.12.01~2022.12.10
 
 **已结束**
 
-1. DataFountain.[Web攻击检测与分类识别 竞赛 - DataFountain](https://www.datafountain.cn/competitions/596)，**已结束**， 2022.8.20~2022.11.18
+1. DataFountain.Web攻击检测与分类识别 [[赛事官网](https://www.datafountain.cn/competitions/596)]，**已结束**， 2022.8.20~2022.11.18
 
-2. DataFountain.[大数据平台安全事件检测与分类识别 竞赛 - DataFountain](https://www.datafountain.cn/competitions/595)，**已结束**，2022.8.20~2022.11
-3. DataFountain.[基于人工智能的漏洞数据分类 竞赛 - DataFountain](https://www.datafountain.cn/competitions/594)，**已结束**，2022.8.20~2022.11
-4. DataFountain.[Linux跨平台二进制函数识别 竞赛 - DataFountain](https://www.datafountain.cn/competitions/593)，**已结束**，2022.8.20~2022.11
+2. DataFountain.大数据平台安全事件检测与分类识别 [[赛事官网](https://www.datafountain.cn/competitions/595)]，**已结束**，2022.8.20~2022.11
+3. DataFountain.基于人工智能的漏洞数据分类 [[赛事官网](https://www.datafountain.cn/competitions/594)]，**已结束**，2022.8.20~2022.11
+4. DataFountain.Linux跨平台二进制函数识别 [[赛事官网](https://www.datafountain.cn/competitions/593)]，**已结束**，2022.8.20~2022.11
 
 ---
 
 ## 优秀的AI CyberSecurity Github&博客
-* [我的AI安全检测学习笔记](https://4o4notfound.org/index.php/archives/127/) 
-* [dataRisk-detection-resources](https://github.com/LiaoWenzhe/dataRisk-detection-resources/blob/main/README_zh-CN.md) 
-* [网络安全中机器学习大合集](https://github.com/jivoi/awesome-ml-for-cybersecurity/blob/master/README_ch.md)
+* 我的AI安全检测学习笔记 [[博客](https://4o4notfound.org/index.php/archives/127/)]
+* dataRisk-detection-resources [[Github](https://github.com/LiaoWenzhe/dataRisk-detection-resources/blob/main/README_zh-CN.md)] 
+* 网络安全中机器学习大合集 [[Github](https://github.com/jivoi/awesome-ml-for-cybersecurity/blob/master/README_ch.md)]
 
 ---
 
@@ -45,10 +45,10 @@
 ---
 
 ## CyverSecurity之WAF
-* 腾迅WAF： [WAF建设运营及AI应用实践](https://security.tencent.com/index.php/blog/msg/145)
-* 开源WAF工具：[ModSecurity](http://www.modsecurity.cn/)
-* Fortinet WAF： [FortiWeb Release 6.0: AI-based Machine Learing for Advanced Threat Detection](https://www.fortinet.com/blog/business-and-technology/fortiweb-release-6-0--ai-based-machine-learning-for-advanced-thr)
-* 阿里云WAF: [揭秘阿里云WAF背后神秘的AI智能防御体系](https://developer.aliyun.com/article/723263?spm=a2c6h.14164896.0.0.7cc13a49u3CTps)
+* 腾迅WAF： WAF建设运营及AI应用实践 [[技术文章](https://security.tencent.com/index.php/blog/msg/145)
+* 开源WAF工具：ModSecurity [[官网](http://www.modsecurity.cn/)]
+* Fortinet WAF： FortiWeb Release 6.0: AI-based Machine Learing for Advanced Threat Detection [[技术文章](https://www.fortinet.com/blog/business-and-technology/fortiweb-release-6-0--ai-based-machine-learning-for-advanced-thr)]
+* 阿里云WAF: 揭秘阿里云WAF背后神秘的AI智能防御体系 [[技术文章](https://developer.aliyun.com/article/723263?spm=a2c6h.14164896.0.0.7cc13a49u3CTps)]
 
 ---
 
@@ -61,9 +61,9 @@
 
 **2、AI + SQLij攻击检测篇(博客等)**
 
-* [基于机器学习的WEB攻击分类检测模型]( https://www.freebuf.com/news/184687.html)
-* 长亭SQL注入检测方案： [SqlChop-一个新型SQL注入检测引擎](https://blog.chaitin.cn/sqlchop-the-sqli-detection-engine/)
-* Fortinet SQL注入检测方案： [Syntax-based SQL Injection Detection](https://help.fortinet.com/fweb/580/Content/FortiWeb/fortiweb-admin/syntaxbased_sqli_detect.htm#syntax-sqli-detect-builtin-template)
+* 基于机器学习的WEB攻击分类检测模型 [[技术文章]( https://www.freebuf.com/news/184687.html)]
+* 长亭SQL注入检测方案： SqlChop-一个新型SQL注入检测引擎 [[技术文章](https://blog.chaitin.cn/sqlchop-the-sqli-detection-engine/)]
+* Fortinet SQL注入检测方案： Syntax-based SQL Injection Detection [[技术文章](https://help.fortinet.com/fweb/580/Content/FortiWeb/fortiweb-admin/syntaxbased_sqli_detect.htm#syntax-sqli-detect-builtin-template)]
 
 **3、SQLij攻击&检测开源方案&工具篇**
 
@@ -71,29 +71,29 @@
 
 **4、SQLi攻击检测与防御论文之综述**
 
-* A Survey on SQL Injection Attack: Detection and Challenge, 2021, ICIT
-* Detection of SQL Injection Attack using Machine Learning Techniques: A Systemtic Literature Review, 2022, S&P
+* A Survey on SQL Injection Attack: Detection and Challenge, 2021, ICIT [[Paper](https://ieeexplore.ieee.org/document/9491117)]
+* Detection of SQL Injection Attack using Machine Learning Techniques: A Systemtic Literature Review, 2022, S&P [[Paper](https://www.mdpi.com/2624-800X/2/4/39/pdf)]
 
 **5、SQLi攻击检测与防御论文之ML/DL**
 
-* [Locate-Then_detect: Real-time Web Attack Detection via Attention-based Deep Neural Networks](https://www.ijcai.org/Proceedings/2019/0656.pdf)
-* SQL Injection Attack Detection Framework Based on HTTP Traffic, 2021, ACM TURC
+* Locate-Then_detect: Real-time Web Attack Detection via Attention-based Deep Neural Networks [[Paper](https://www.ijcai.org/Proceedings/2019/0656.pdf)]]
+* SQL Injection Attack Detection Framework Based on HTTP Traffic, 2021, ACM TURC [[Paper](https://dl.acm.org/doi/abs/10.1145/3472634.3474068)]
 
 **6、SQLi攻击检测与防御论文之语义分析**
 
-* [Long short-term memory on abstract systax tree for SQL injection detection](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/sfw2.12018)，2020，IET
-* [Attack Intention Estimation Based on Syntax Analysis and Dynamic Analysis for SQL Injection](https://ieeexplore.ieee.org/abstract/document/9202752), 2020, IEEE
+* Long short-term memory on abstract systax tree for SQL injection detection，2020，IET [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/sfw2.12018]
+* Attack Intention Estimation Based on Syntax Analysis and Dynamic Analysis for SQL Injection, 2020, IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/9202752)]
 
 **7、SQLi攻击检测与防御论文之对抗攻击**
 
-* A GAN-based Method for Generation SQL Injection Attack Samples, 2022, IEEE ITAIC
+* A GAN-based Method for Generation SQL Injection Attack Samples, 2022, IEEE ITAIC [[Paper](https://ieeexplore.ieee.org/document/9836726)]
 
 #### Web安全之XSS检测
 **1、XSS攻击之原理篇**
 
 **2、AI + XSS攻击检测(博客等)**
 
-* [XSSChop：XSS语义分析](https://blog.51cto.com/u_15127693/4117204)
+* XSSChop：XSS语义分析 [[技术文章](https://blog.51cto.com/u_15127693/4117204)]
 
 **3、XSS攻击&检测开源方案&工具篇**
 
@@ -103,32 +103,33 @@
 
 **4、XSS攻击检测与防御论文之综述**
 **5、XSS攻击检测与防御论文之ML/DL**
+* GraphXSS: An efficient XSS payload detection approach based on graph convolutional network [[Paper](https://dl.acm.org/doi/10.1016/j.cose.2021.102597)]
 **6、XSS攻击检测与防御论文之语义分析**
 **7、XSS攻击检测与防御论文之对抗攻击**
-* [Black-box adversarial attacks on XSS attack detection model](https://dl.acm.org/doi/10.1016/j.cose.2021.102554)，2021，Computer and Security
+* Black-box adversarial attacks on XSS attack detection model，2021，Computer and Security [[Paper](https://dl.acm.org/doi/10.1016/j.cose.2021.102554)]
 
 #### Web安全之命令注入检测
 
 #### Web安全之webshell检测
 **1、Webshell原理篇**
 **2、AI + Webshell攻击检测(博客等)**
-* [主机安全-洋葱Webshell检测实践与思考](https://security.tencent.com/index.php/blog/msg/152)
+* 主机安全-洋葱Webshell检测实践与思考 [[博客](https://security.tencent.com/index.php/blog/msg/152)]
 
 #### Web安全之代码执行检测
 
 ---
 
 ## CyberSecurity之知识图谱篇
-- [AKG：攻击者知识图谱](https://4o4notfound.org/index.php/category/%E5%AE%89%E5%85%A8%E7%AE%97%E6%B3%95/)
+- AKG：攻击者知识图谱 [[博客](https://4o4notfound.org/index.php/category/%E5%AE%89%E5%85%A8%E7%AE%97%E6%B3%95/)]
 
 ---
 
 ## CyberSecurity之DGA/DNS/DoH隐蔽隧道篇
-- [DNS隧道通信特征与检测](http://blog.nsfocus.net/dns-tunnel-communication-characteristics-detection/?from=timeline)
-- [机器学习与威胁情报的融合：一种基于AI检测恶意域名的方法](https://www.freebuf.com/articles/es/187451.html)
+- DNS隧道通信特征与检测 [[技术文章](http://blog.nsfocus.net/dns-tunnel-communication-characteristics-detection/?from=timeline)]
+- 机器学习与威胁情报的融合：一种基于AI检测恶意域名的方法 [[技术文章](https://www.freebuf.com/articles/es/187451.html)]
 
-* [Understanding DoH and DoT](https://incompass.netstar-inc.com/understanding-doh-and-dot/)
-* [DoH Insight: Detecting DNS over HTTPS by Machine Learning](https://sappan-project.eu/wp-content/uploads/2020/09/DOH-2.pdf)
+* Understanding DoH and DoT [[技术文章](https://incompass.netstar-inc.com/understanding-doh-and-dot/)]
+* DoH Insight: Detecting DNS over HTTPS by Machine Learning [[技术文章](https://sappan-project.eu/wp-content/uploads/2020/09/DOH-2.pdf)]
 
 
 
@@ -140,19 +141,19 @@
 ---
 
 ## AI+CyberSecurity经验总结
-1、[Web安全检测中机器学习的经验之谈](https://iami.xyz/ML-IN-Webshell-Detection-Advantages-And-Disadvantages/)
+1、Web安全检测中机器学习的经验之谈 [[博客](https://iami.xyz/ML-IN-Webshell-Detection-Advantages-And-Disadvantages/)]
 2、
 
 ---
 
 ## AI+CyberSecurity数据合集
-1、[HTTP DATASET CSIC 2010](https://www.tic.itefi.csic.es/dataset/)：包含SQL注入、XSS等攻击数据
+1、HTTP DATASET CSIC 2010 ：包含SQL注入、XSS等攻击数据 [[DataSet](https://www.tic.itefi.csic.es/dataset/)]
 
-2、[www.xssed.com](http://www.xssed.com/)：包含XSS攻击数据集
+2、www.xssed.com ：包含XSS攻击数据集 [[DataSet](http://www.xssed.com/)]
 
-3、https://github.com/foospidy/payloads：包含XSS、SQLi等各种数据集
+3、https://github.com/foospidy/payloads：包含XSS、SQLi等各种数据集 [[DataSet](https://github.com/foospidy/payloads)]
 
-4、https://github.com/duoergun0729/1book/tree/master/data：包括XSS、SQLI、Webshell、DGA、KDDcup99等各种数据集
+4、https://github.com/duoergun0729/1book/tree/master/data：包括XSS、SQLI、Webshell、DGA、KDDcup99等各种数据集 [[DataSet](https://github.com/duoergun0729/1book/tree/master/data)]
 
-5、https://github.com/swisskyrepo/PayloadsAllTheThing：包含SQLi、XSS等各种数据集
+5、https://github.com/swisskyrepo/PayloadsAllTheThing：包含SQLi、XSS等各种数据集 [[DataSet](https://github.com/swisskyrepo/PayloadsAllTheThing)]
 
