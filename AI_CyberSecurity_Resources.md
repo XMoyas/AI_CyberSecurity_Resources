@@ -158,5 +158,5 @@
 
 5、swisskyrepo PayloadsAllTheThing：包含SQLi、XSS等各种数据集 [[DataSet](https://github.com/swisskyrepo/PayloadsAllTheThing)]
 
-6、Advanced-SQL-Injection-Cheatsheet：包含SQL注入数据集 [[Dataset(https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet)]]
+6、Advanced-SQL-Injection-Cheatsheet：包含SQL注入数据集 [[Dataset](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet)]
 
