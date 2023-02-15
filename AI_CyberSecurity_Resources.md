@@ -6,7 +6,8 @@
 ---
 
 ## AI CyberSecurity比赛
-**进行中|待进行**
+**进行中|待进行**  
+
 1、天池.【ICDAR 2023 X 阿里安全】挑战赛：篡改文本检测.[[赛道一](https://tianchi.aliyun.com/competition/entrance/532048/introduction)][[赛道二](https://tianchi.aliyun.com/competition/entrance/532052/introduction)]，***进行中**，赛事：20230215~20230331
 
 **已结束**
