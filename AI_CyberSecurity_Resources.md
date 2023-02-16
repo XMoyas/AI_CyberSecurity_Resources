@@ -31,10 +31,14 @@
 
 ---
 
-## 优秀的AI CyberSecurity 书籍推荐
-* 《Web安全之机器学习入门》
-* 《Web安全之深度学习实战》
-* 《Web安全之强化学习与GAN》
+<details>
+    <summary>优秀的AI CyberSecurity 书籍推荐</summary>
+    <pre>
+    * 《Web安全之机器学习入门》
+    * 《Web安全之深度学习实战》
+    * 《Web安全之强化学习与GAN》
+    </pre>
+</details>
 
 ---
 
