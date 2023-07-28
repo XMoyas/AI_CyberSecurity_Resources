@@ -26,4 +26,4 @@
 ---
 
 ## 漏洞检测
-[漏洞检测]()
+[漏洞检测](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI_CyberSecurity_web/%E6%BC%8F%E6%B4%9E%E6%A3%80%E6%B5%8B)
