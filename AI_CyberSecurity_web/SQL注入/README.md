@@ -25,6 +25,7 @@
        
    * A Survey on SQL Injection Attack: Detection and Challenge, 2021, ICIT [[Paper](https://ieeexplore.ieee.org/document/9491117)]
    * Detection of SQL Injection Attack using Machine Learning Techniques: A Systemtic Literature Review, 2022, S&P [[Paper](https://www.mdpi.com/2624-800X/2/4/39/pdf)]
+   * SQL注入攻击检测与防御技术研究综述,2023,信息安全研究
     </details>
     
    <details>
