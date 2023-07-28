@@ -48,7 +48,7 @@
 </details>
 
 ## AI+Web攻击检测篇
-* [AIweb安全](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI_CyberSecurity_web)
+* [AI 安全](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI_CyberSecurity_web)
 
 ## CyberSecurity之知识图谱篇
 - AKG：攻击者知识图谱 [[博客](https://4o4notfound.org/index.php/category/%E5%AE%89%E5%85%A8%E7%AE%97%E6%B3%95/)]
