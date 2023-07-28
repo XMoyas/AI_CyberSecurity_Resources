@@ -16,7 +16,7 @@
 ---
 
 ## 命令注入
-[命令注入]()
+[命令注入](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI_CyberSecurity_web/%E5%91%BD%E4%BB%A4%E6%B3%A8%E5%85%A5)
 
 ---
 
