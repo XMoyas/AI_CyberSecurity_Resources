@@ -6,7 +6,7 @@
 ---
 
 ## XSS注入
-[XSS注入检测与防御]()
+[XSS注入检测与防御](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI_CyberSecurity_web/XSS)
 
 ---
 
