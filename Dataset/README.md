@@ -12,4 +12,13 @@
 5、swisskyrepo PayloadsAllTheThing：包含SQLi、XSS等各种数据集 [[DataSet](https://github.com/swisskyrepo/PayloadsAllTheThing)]
 
 6、Advanced-SQL-Injection-Cheatsheet：包含SQL注入数据集 [[Dataset](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet)]
+
+7、<details><summary>Github-sql注入数据集</summary>
+* [ChrisAHolland-ML-SQL-Injection-Detector](https://github.com/ChrisAHolland/ML-SQL-Injection-Detector/tree/master/data)
+* [trietptm-SQL-Injection-Payloads](https://github.com/trietptm/SQL-Injection-Payloads)
+* [omurugur-SQL_Injection_Payload](https://github.com/omurugur/SQL_Injection_Payload)
+* [DictionaryHouse-SQLI-payload](https://github.com/DictionaryHouse/Sql-injection-FuzzPayload-collection)
+* [Proviesec-SQLI-payload](https://github.com/Proviesec/SQL-Injection-Payloads/blob/main/error-based-sql-injection-payloads.txt)
+</details>
+ 
 </details>
