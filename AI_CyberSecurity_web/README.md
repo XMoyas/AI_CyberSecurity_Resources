@@ -21,7 +21,7 @@
 ---
 
 ## 代码执行
-[代码执行]()
+[代码执行](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI_CyberSecurity_web/%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C)
 
 ---
 
