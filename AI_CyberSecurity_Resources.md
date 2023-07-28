@@ -70,7 +70,7 @@
 ---
 
 ## CyberSecurity之图神经网络
-[AI安全之图神经网络](https://github.com/XMoyas/AI_CyberSecurity_Resources/blob/main/AI_CyberSecurity_GNN.md)
+[AI安全之图神经网络](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI_CyberSecurity_GNN)
 
 ## AI模型安全篇
 
