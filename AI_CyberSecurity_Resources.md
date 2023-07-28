@@ -10,13 +10,13 @@
 <details>
  <summary>进行中|待进行</summary>  
   
- 1. 天池.【ICDAR 2023 X 阿里安全】挑战赛：篡改文本检测.[[赛道一](https://tianchi.aliyun.com/competition/entrance/532048/introduction)][[赛道二](https://tianchi.aliyun.com/competition/entrance/532052/introduction)]，**进行中**，赛事：20230215~20230331
     
 </details>
 
 <details>
 <summary>已结束</summary>
 
+7. 天池.ICDAR2023.阿里安全.挑战赛：篡改文本检测 [[赛道1](https://tianchi.aliyun.com/competition/entrance/532048/introduction)][[赛道二](https://tianchi.aliyun.com/competition/entrance/532052/introduction)]，**已结束**，赛事：20230215~20230331
 6. 天池 . 天池 . 阿里云webshell文本检测大赛 [[赛事官网](https://tianchi.aliyun.com/competition/entrance/532035/introduction)]，**已结束**，初赛：2022.10.24~2022.11.25  
 
 5. DataCon.大数据安全分析竞赛 [[赛事官网](https://datacon.qianxin.com/datacon2022)]，**已结束**，2022.12.01~2022.12.10
