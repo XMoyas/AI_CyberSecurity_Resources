@@ -23,6 +23,7 @@
     <summary>【2022】DataFountain.Web攻击检测与分类识别，**已结束**， 2022.8.20~2022.11.18</summary>
     
    * [[赛事官网](https://www.datafountain.cn/competitions/596)]
+   * web攻击检测分类与识别[[baseline TFIDF+简单特征](https://github.com/XMoyas/competition_baselines/tree/master/competitions/2022ccf_web_attack_detect)]
    * web攻击检测分类与识别[[rank23代码](https://github.com/XFR1998/CCF-BDCI2022-Web-Attack-Detection-and-Classification)]
    </details>
 
