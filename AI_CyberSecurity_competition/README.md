@@ -24,6 +24,7 @@
     
    * [[赛事官网](https://www.datafountain.cn/competitions/596)]
    * web攻击检测分类与识别[[baseline TFIDF+简单特征](https://github.com/XMoyas/competition_baselines/tree/master/competitions/2022ccf_web_attack_detect)]
+   * web攻击检测分类与识别[[一等奖方案](https://mp.weixin.qq.com/s/uatRcu2PqfOT_RgwzpCm1g)]
    * web攻击检测分类与识别[[二等奖方案](https://mp.weixin.qq.com/s/AejA41vBqyVDjIswpdiU6Q)]
    * web攻击检测分类与识别[[二等奖方案](https://mp.weixin.qq.com/s/Q4G3muIxGPIcVB99cqJ-1w)]
    * web攻击检测分类与识别[[三等奖方案](https://mp.weixin.qq.com/s/mKefBBSleFBjjbkgOEPdkw)]
