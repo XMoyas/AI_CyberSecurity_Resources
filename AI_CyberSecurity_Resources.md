@@ -16,6 +16,7 @@
 * 我的AI安全检测学习笔记 [[博客](https://4o4notfound.org/index.php/archives/127/)]
 * dataRisk-detection-resources [[Github](https://github.com/LiaoWenzhe/dataRisk-detection-resources/blob/main/README_zh-CN.md)] 
 * 网络安全中机器学习大合集 [[Github](https://github.com/jivoi/awesome-ml-for-cybersecurity/blob/master/README_ch.md)]
+* web安全攻防实战 [[Github](https://github.com/hongriSec/Web-Security-Attack)]
 </details>
 
 ## 优秀的AI CyberSecurity 书籍推荐
