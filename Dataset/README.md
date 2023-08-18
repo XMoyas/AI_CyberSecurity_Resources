@@ -20,5 +20,6 @@
 * [DictionaryHouse-SQLI-payload](https://github.com/DictionaryHouse/Sql-injection-FuzzPayload-collection)
 * [Proviesec-SQLI-payload](https://github.com/Proviesec/SQL-Injection-Payloads/blob/main/error-based-sql-injection-payloads.txt)
 </details>
- 
+
+ 8、已整理且仅含xss数据集 [[Xmoyas Github](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/Dataset/xss)]
 </details>
