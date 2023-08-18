@@ -12,6 +12,7 @@
 * Web攻击检测论文（作者觉得比较典型的）
 * 相关开源数据集
 * 其他AI在该领域有趣的应用
+* [仓库总览](https://github.com/XMoyas/AI_CyberSecurity_Resources/blob/main/AI_CyberSecurity_Resources.md)
 
 --
 当前断续更新中.....
