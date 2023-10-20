@@ -10,9 +10,10 @@
 * Nkito
 * OWASP Xenotix XSS
 
-**4、XSS攻击检测与防御论文之综述**
+**4、XSS攻击检测与防御论文之综述**  
 **5、XSS攻击检测与防御论文之ML/DL**
-* GraphXSS: An efficient XSS payload detection approach based on graph convolutional network [[Paper](https://dl.acm.org/doi/10.1016/j.cose.2021.102597)] 
+* GraphXSS: An efficient XSS payload detection approach based on graph convolutional network [[Paper](https://dl.acm.org/doi/10.1016/j.cose.2021.102597)]
+* Web Attack Payload Identification and Interpretability Analysis Based on Graph Convolutional Network [[paper]](https://ieeexplore.ieee.org/document/10076547)[[论文简析](https://blog.csdn.net/sunny0121/article/details/133862332?spm=1001.2014.3001.5501)]
 
 **6、XSS攻击检测与防御论文之语义分析**
 **7、XSS攻击检测与防御论文之对抗攻击**
