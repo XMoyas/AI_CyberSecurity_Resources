@@ -10,7 +10,7 @@
 * 各种攻击原理和绕过技巧等
 * 各安全厂商解决方案
 * Web攻击检测论文（作者觉得比较典型的）
-* 网络安全大模型相关资料
+* 网络安全大模型相关资料（当前主要更新方向）
 * 相关开源数据集
 * 其他AI在该领域有趣的应用
 * [仓库总览](https://github.com/XMoyas/AI_CyberSecurity_Resources/blob/main/AI_CyberSecurity_Resources.md)
