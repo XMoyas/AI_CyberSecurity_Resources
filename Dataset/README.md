@@ -1,5 +1,6 @@
 ## 安全数据集 ##
-    
+
+### 文本类型 ###
 1、HTTP DATASET CSIC 2010 ：包含SQL注入、XSS等攻击数据 [[DataSet](https://www.tic.itefi.csic.es/dataset/)]  
 2、xssed ：包含XSS攻击数据集 [[DataSet](http://www.xssed.com/)]  
 3、foospidy payloads：包含XSS、SQLi等各种数据集 [[DataSet](https://github.com/foospidy/payloads)]  
@@ -16,3 +17,7 @@
  9、Top 10 Datasets For Cybersecurity Projects [[Dataset](https://analyticsindiamag.com/top-10-datasets-for-cybersecurity-projects/)]    
  10、open-source security datasets [[Dataset](https://github.com/OTRF/Security-Datasets/tree/master)]  
 11、Hung X Nguyen：Cyber Security Datasets and Code [[Dataset](https://hxnguyen.github.io/posts/2023/08/datasets/)]
+
+### 流量类型 ###
+- 国防科大移动应用流量数据集，超600G,350余种应用流量 : [[Dataset](https://github.com/Abby-ZS/NUDT_MobileTraffic)]
+
