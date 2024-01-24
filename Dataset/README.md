@@ -15,3 +15,4 @@
  8、已整理且仅含xss数据集 [[Xmoyas Github](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/Dataset/xss)]    
  9、Top 10 Datasets For Cybersecurity Projects [[Dataset](https://analyticsindiamag.com/top-10-datasets-for-cybersecurity-projects/)]    
  10、open-source security datasets [[Dataset](https://github.com/OTRF/Security-Datasets/tree/master)]  
+11、Hung X Nguyen：Cyber Security Datasets and Code [[Dataset](https://hxnguyen.github.io/posts/2023/08/datasets/)]
