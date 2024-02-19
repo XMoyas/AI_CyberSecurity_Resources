@@ -9,6 +9,7 @@
 ## 安全大模型论文或资料跟踪 ##
 - [Prompt Engineering-assisted Malware Dynamic Analysis Using GPT-4 ](https://mp.weixin.qq.com/s/zIAYb4jF-f5rsEFLNQPbww) [[Github](https://github.com/yan-scnu/Prompted_Dynamic_Detection)]
 - [HackMentor: Fine-Tuning Large Language Models for Cybersecurity] [[Github](https://github.com/tmylla/HackMentor/blob/main/README-ZH.md)]
+- 专注于未来安全领域智能革命的知识库-GPTsecurity [[Github](https://github.com/mo-xiaoxi/GPTSecurity)]
 
 ## 大模型算法竞赛方案 ##
 - [天池2023博金大模型挑战赛总结](https://mp.weixin.qq.com/s/p7yEvJ06nitd9MBhxDtCgA)  (非安全方向)
