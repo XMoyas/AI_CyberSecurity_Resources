@@ -6,6 +6,7 @@
 - [微步情报智脑XGPT-国内首个备案上线的网络安全大模型](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650180167&idx=1&sn=66a82e5c72c3012d494d1529b1f49eeb&chksm=f44871fbc33ff8ed27ea89e98ddbe601eb0fe1e028d8c1b2f5d18194f3cfead47710a665178b&mpshare=1&scene=1&srcid=0122mgyu5GRP08xBK9uUKMkl&sharer_shareinfo=87fc63df934c57a997a064c24004b1a7&sharer_shareinfo_first=4d6fc799277aed37f498e693fc4a4c59&from=industrynews&version=4.1.20.6006&platform=win#rd)
 - [SecBench：首个网络安全大模型评测平台发布](https://mp.weixin.qq.com/s/7WINLyfWj0MkYNUZYJbcwA)
 - [360曝AI首战成绩单 “安全智能体（AI Agent）1分钟秒杀APT”刷屏](https://mp.weixin.qq.com/s/5kpvzeejPDhNbM_xX9d_lw)
+- [大模型如何辅助EDR进行告警分析？我们引入了一款研判机器人](https://mp.weixin.qq.com/s/fMWqqCBmc4ldG6KNnj1gDA)
 
 
 ## 安全大模型论文或资料跟踪 ##
