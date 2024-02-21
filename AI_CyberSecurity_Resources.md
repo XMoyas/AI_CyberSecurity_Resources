@@ -5,13 +5,12 @@
 
 ---
 
-## AI CyberSecurity比赛
+1、AI CyberSecurity比赛
 
 * [competition](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI_CyberSecurity_competition)
 
-## 优秀的AI CyberSecurity Github&博客
 <details>
-<summary></summary>
+<summary>2、优秀的AI CyberSecurity Github&博客</summary>
     
 * 我的AI安全检测学习笔记 [[博客](https://4o4notfound.org/index.php/archives/127/)]
 * dataRisk-detection-resources [[Github](https://github.com/LiaoWenzhe/dataRisk-detection-resources/blob/main/README_zh-CN.md)] 
@@ -19,28 +18,28 @@
 * web安全攻防实战 [[Github](https://github.com/hongriSec/Web-Security-Attack)]
 </details>
 
-## 优秀的AI CyberSecurity 书籍推荐
+
 <details>
-<summary></summary>
+<summary>3、优秀的AI CyberSecurity 书籍推荐</summary>
     
 * 《Web安全之机器学习入门》
 * 《Web安全之深度学习实战》
 * 《Web安全之强化学习与GAN》
 </details>
 
-## CyberSecurity之工具篇
 <details>
-<summary></summary>
+<summary>4、CyberSecurity之工具篇</summary>
     
 * 开源WAF工具：[ModSecurity](http://www.modsecurity.cn/)
 * XSS注入工具：[Nikto](https://github.com/sullo/nikto)，	[OWASP Xenotix XSS](https://github.com/ajinabraham/OWASP-Xenotix-XSS-Exploit-Framework)、XSSChop、Libinjection
 * SQLi工具：SQLMap、Libinjection、SQLChop、JSQL injection、超级SQL注入工具
 * 开源IDS工具：Snort、Suricata、Zeek、OSSEC
+* Google基于深度学习的文件类型识别：[magika](https://github.com/google/magika)
 </details>
 
-## CyverSecurity之WAF
+
 <details>
-<summary></summary>
+<summary>5、CyverSecurity之WAF</summary>
     
 * 腾迅WAF： WAF建设运营及AI应用实践 [[技术文章](https://security.tencent.com/index.php/blog/msg/145)
 * 开源WAF工具：ModSecurity [[官网](http://www.modsecurity.cn/)]
@@ -48,32 +47,29 @@
 * 阿里云WAF: 揭秘阿里云WAF背后神秘的AI智能防御体系 [[技术文章](https://developer.aliyun.com/article/723263?spm=a2c6h.14164896.0.0.7cc13a49u3CTps)]
 </details>
 
-## AI+Web攻击检测篇
+6、AI+Web攻击检测篇
 * [AI 安全](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI_CyberSecurity_web)
 
-## CyberSecurity之知识图谱篇
+
+7、CyberSecurity之知识图谱篇
 - AKG：攻击者知识图谱 [[博客](https://4o4notfound.org/index.php/category/%E5%AE%89%E5%85%A8%E7%AE%97%E6%B3%95/)]
 
----
 
-## CyberSecurity之DGA/DNS/DoH隐蔽隧道篇
+8、CyberSecurity之DGA/DNS/DoH隐蔽隧道篇
 [DNS_DOT_DOH](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI_CyberSecurity_web/DNS_DOH)
 
----
 
-## CyberSecurity之图神经网络
-[AI安全之图神经网络](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI_CyberSecurity_GNN)
-
-## AI模型安全篇
+9、CyberSecurity之图神经网络
+[AI安全之图神经网络](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI_CyberSecurity_GNN)  
 
 
----
+10、AI模型安全篇
 
-## AI+CyberSecurity经验总结
+
+11、AI+CyberSecurity经验总结
 1、Web安全检测中机器学习的经验之谈 [[博客](https://iami.xyz/ML-IN-Webshell-Detection-Advantages-And-Disadvantages/)]
 2、
 
----
 
-## AI+CyberSecurity数据合集
+12、AI+CyberSecurity数据合集
 [AI模型训练&渗透测试数据集](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/Dataset)
