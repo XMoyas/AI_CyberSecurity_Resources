@@ -7,6 +7,7 @@
 - [SecBench：首个网络安全大模型评测平台发布](https://mp.weixin.qq.com/s/7WINLyfWj0MkYNUZYJbcwA)
 - [360曝AI首战成绩单 “安全智能体（AI Agent）1分钟秒杀APT”刷屏](https://mp.weixin.qq.com/s/5kpvzeejPDhNbM_xX9d_lw)
 - [大模型如何辅助EDR进行告警分析？我们引入了一款研判机器人](https://mp.weixin.qq.com/s/fMWqqCBmc4ldG6KNnj1gDA)
+- [腾讯混元大模型在研发安全漏洞修复场景的实践](https://mp.weixin.qq.com/s/KwyuQPmInzXwqWjV46OmhQ)
 
 
 ## 安全大模型论文或资料跟踪 ##
