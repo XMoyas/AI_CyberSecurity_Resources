@@ -15,6 +15,7 @@
 - 安全大模型：HackMentor: Fine-Tuning Large Language Models for Cybersecurity [[Github](https://github.com/tmylla/HackMentor/blob/main/README-ZH.md)]
 - 安全大模型：专注于未来安全领域智能革命的知识库-GPTsecurity [[Github](https://github.com/mo-xiaoxi/GPTSecurity)]
 - 日志分析：Interpretable Online Log Analysis Using Large Language Models with Prompt Strategies [Paper](https://arxiv.org/abs/2308.07610) [Github](https://github.com/lunyiliu/LogPrompt)
+     - 延伸阅读1：知识增强的日志预训练 [Paper](https://dl.acm.org/doi/10.1145/3597503.3623304) [Report](https://mp.weixin.qq.com/s/OGTyr--W3dBhPBA6Tsm5dQ)
 
 ## 大模型算法竞赛方案 ##
 - [天池2023博金大模型挑战赛总结](https://mp.weixin.qq.com/s/p7yEvJ06nitd9MBhxDtCgA)  (非安全方向)
