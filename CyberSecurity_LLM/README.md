@@ -14,6 +14,7 @@
 - [Prompt Engineering-assisted Malware Dynamic Analysis Using GPT-4 ](https://mp.weixin.qq.com/s/zIAYb4jF-f5rsEFLNQPbww) [[Github](https://github.com/yan-scnu/Prompted_Dynamic_Detection)]
 - [HackMentor: Fine-Tuning Large Language Models for Cybersecurity] [[Github](https://github.com/tmylla/HackMentor/blob/main/README-ZH.md)]
 - 专注于未来安全领域智能革命的知识库-GPTsecurity [[Github](https://github.com/mo-xiaoxi/GPTSecurity)]
+- 日志分析：Interpretable Online Log Analysis Using Large Language Models with Prompt Strategies [Paper](https://arxiv.org/abs/2308.07610) [Github](https://github.com/lunyiliu/LogPrompt)
 
 ## 大模型算法竞赛方案 ##
 - [天池2023博金大模型挑战赛总结](https://mp.weixin.qq.com/s/p7yEvJ06nitd9MBhxDtCgA)  (非安全方向)
