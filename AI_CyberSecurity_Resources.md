@@ -66,9 +66,8 @@
 10、AI模型安全篇
 
 
-11、AI+CyberSecurity经验总结
-1、Web安全检测中机器学习的经验之谈 [[博客](https://iami.xyz/ML-IN-Webshell-Detection-Advantages-And-Disadvantages/)]
-2、
+11、AI+CyberSecurity经验总结  
+   - Web安全检测中机器学习的经验之谈 [[博客](https://iami.xyz/ML-IN-Webshell-Detection-Advantages-And-Disadvantages/)]  
 
 
 12、AI+CyberSecurity数据合集
