@@ -16,7 +16,7 @@
 - 安全大模型：专注于未来安全领域智能革命的知识库-GPTsecurity [[Github](https://github.com/mo-xiaoxi/GPTSecurity)]
 - 日志分析：Interpretable Online Log Analysis Using Large Language Models with Prompt Strategies [Paper](https://arxiv.org/abs/2308.07610) [Github](https://github.com/lunyiliu/LogPrompt)
      - 延伸阅读1：知识增强的日志预训练 [Paper](https://dl.acm.org/doi/10.1145/3597503.3623304) [Report](https://mp.weixin.qq.com/s/OGTyr--W3dBhPBA6Tsm5dQ)
-
+- 安全大模型：构建安全领域大模型数据的技术实践 [公众号](https://mp.weixin.qq.com/s/0yCmQQVg0ZS_WqjNdOQEQg)
 ## 大模型算法竞赛方案 ##
 - [天池2023博金大模型挑战赛总结](https://mp.weixin.qq.com/s/p7yEvJ06nitd9MBhxDtCgA)  (非安全方向)
 - [Kaggle. LLM - Detect AI Generated Text](https://www.kaggle.com/competitions/llm-detect-ai-generated-text) (识别AI生成文本)
