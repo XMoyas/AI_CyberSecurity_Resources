@@ -5,6 +5,7 @@
 - 免费大模型课程 : [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
 - 2023春季李宏毅机器学习课程-生成式AI : [bilibil](https://www.bilibili.com/video/BV1NX4y1r7nP/?spm_id_from=333.999.0.0) [国立台湾大学](https://speech.ee.ntu.edu.tw/~hylee/index.php)
 - OLMo:真正意义上的开源，包括训练代码、训练数据、评估代码等：[AI2-OLMo](https://mp.weixin.qq.com/s/uB6jxCWDTJhtFsh9Bc_DYQ) [训练代码](https://github.com/allenai/OLMo) [训练数据&工具](https://github.com/allenai/dolma) [评估](https://github.com/allenai/OLMo-Eval) [微调](https://github.com/allenai/open-instruct) [paper](https://arxiv.org/abs/2402.00838) [博客](https://blog.allenai.org/olmo-open-language-model-87ccfc95f580)
+- huggingface learn: [NLP Course](https://huggingface.co/learn) 
 
 ## 资料汇总
 - 模型微调：
