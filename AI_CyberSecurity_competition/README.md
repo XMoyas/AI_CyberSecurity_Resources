@@ -1,8 +1,7 @@
 # 记录网络安全相关的比赛及相关资料
 
-<details>
- <summary>进行中|待进行</summary>  
-</details>
+- 进行中|待进行
+   - 生成式人工智能安全大赛（安全攻击、安全检测、对齐防护） [官网](http://galaxy.iie.ac.cn/competitionPassage)  报名截止日期：2024-5-32，初赛日期：2024-6-1~2024-6-30
 
 <details>
 <summary>已结束</summary>
