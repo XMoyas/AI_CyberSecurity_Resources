@@ -8,6 +8,7 @@
 - [360曝AI首战成绩单 “安全智能体（AI Agent）1分钟秒杀APT”刷屏](https://mp.weixin.qq.com/s/5kpvzeejPDhNbM_xX9d_lw)
 - [大模型如何辅助EDR进行告警分析？我们引入了一款研判机器人](https://mp.weixin.qq.com/s/fMWqqCBmc4ldG6KNnj1gDA)
 - [腾讯混元大模型在研发安全漏洞修复场景的实践](https://mp.weixin.qq.com/s/KwyuQPmInzXwqWjV46OmhQ)
+- [大模型与软件供应链安全的融合探索](https://mp.weixin.qq.com/s/IMHEslcT_r5Je849UBSx8w?from=industrynews&version=4.1.22.6014&platform=win&nwr_flag=1#wechat_redirect)
 
 
 ## 安全大模型论文或资料跟踪 ##
