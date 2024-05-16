@@ -3,12 +3,13 @@
 - 网络安全LLMs领域数据微调HackMentor：https://github.com/tmylla/HackMentor/blob/main/README-ZH.md
 
 ## 安全大模型新闻跟踪 ##
-- [微步情报智脑XGPT-国内首个备案上线的网络安全大模型](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650180167&idx=1&sn=66a82e5c72c3012d494d1529b1f49eeb&chksm=f44871fbc33ff8ed27ea89e98ddbe601eb0fe1e028d8c1b2f5d18194f3cfead47710a665178b&mpshare=1&scene=1&srcid=0122mgyu5GRP08xBK9uUKMkl&sharer_shareinfo=87fc63df934c57a997a064c24004b1a7&sharer_shareinfo_first=4d6fc799277aed37f498e693fc4a4c59&from=industrynews&version=4.1.20.6006&platform=win#rd)
-- [SecBench：首个网络安全大模型评测平台发布](https://mp.weixin.qq.com/s/7WINLyfWj0MkYNUZYJbcwA) [[官网]](https://secbench.org/)
-- [360曝AI首战成绩单 “安全智能体（AI Agent）1分钟秒杀APT”刷屏](https://mp.weixin.qq.com/s/5kpvzeejPDhNbM_xX9d_lw)
-- [大模型如何辅助EDR进行告警分析？我们引入了一款研判机器人](https://mp.weixin.qq.com/s/fMWqqCBmc4ldG6KNnj1gDA)
-- [腾讯混元大模型在研发安全漏洞修复场景的实践](https://mp.weixin.qq.com/s/KwyuQPmInzXwqWjV46OmhQ)
-- [大模型与软件供应链安全的融合探索](https://mp.weixin.qq.com/s/IMHEslcT_r5Je849UBSx8w?from=industrynews&version=4.1.22.6014&platform=win&nwr_flag=1#wechat_redirect)
+- 【微步】[微步情报智脑XGPT-国内首个备案上线的网络安全大模型](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650180167&idx=1&sn=66a82e5c72c3012d494d1529b1f49eeb&chksm=f44871fbc33ff8ed27ea89e98ddbe601eb0fe1e028d8c1b2f5d18194f3cfead47710a665178b&mpshare=1&scene=1&srcid=0122mgyu5GRP08xBK9uUKMkl&sharer_shareinfo=87fc63df934c57a997a064c24004b1a7&sharer_shareinfo_first=4d6fc799277aed37f498e693fc4a4c59&from=industrynews&version=4.1.20.6006&platform=win#rd)
+- 【腾讯】[SecBench：首个网络安全大模型评测平台发布](https://mp.weixin.qq.com/s/7WINLyfWj0MkYNUZYJbcwA) [[官网]](https://secbench.org/)
+- 【360】[360曝AI首战成绩单 “安全智能体（AI Agent）1分钟秒杀APT”刷屏](https://mp.weixin.qq.com/s/5kpvzeejPDhNbM_xX9d_lw)
+- 【腾讯】[大模型如何辅助EDR进行告警分析？我们引入了一款研判机器人](https://mp.weixin.qq.com/s/fMWqqCBmc4ldG6KNnj1gDA)
+- 【腾讯】[腾讯混元大模型在研发安全漏洞修复场景的实践](https://mp.weixin.qq.com/s/KwyuQPmInzXwqWjV46OmhQ)
+- 【绿盟】 [大模型与软件供应链安全的融合探索](https://mp.weixin.qq.com/s/IMHEslcT_r5Je849UBSx8w?from=industrynews&version=4.1.22.6014&platform=win&nwr_flag=1#wechat_redirect)
+- 【深信服】 [又有员工被钓鱼攻击？半夜三点我从梦中惊醒](https://mp.weixin.qq.com/s/fG1NgkjIYAA8EOPxU_82hg)
 
 
 ## 安全大模型论文或资料跟踪 ##
