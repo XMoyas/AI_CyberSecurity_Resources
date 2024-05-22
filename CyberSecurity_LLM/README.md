@@ -21,6 +21,7 @@
      - 构建安全领域大模型数据的技术实践 [公众号](https://mp.weixin.qq.com/s/0yCmQQVg0ZS_WqjNdOQEQg)
 - 安全大模型综述：
      - Large Language Models for Cyber Security: A Systematic Literature Review [Paper](https://arxiv.org/pdf/2405.04760)
+     - Generative AI and Large Language Models for Cyber Security: All Insights You Need [Paper](https://arxiv.org/pdf/2405.12750)
 - 恶意软件：
      - Prompt Engineering-assisted Malware Dynamic Analysis Using GPT-4 [Paper](https://mp.weixin.qq.com/s/zIAYb4jF-f5rsEFLNQPbww) [[Github](https://github.com/yan-scnu/Prompted_Dynamic_Detection)]
 - 钓鱼邮件：
