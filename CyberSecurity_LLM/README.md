@@ -11,6 +11,7 @@
 - 【绿盟】 [大模型与软件供应链安全的融合探索](https://mp.weixin.qq.com/s/IMHEslcT_r5Je849UBSx8w?from=industrynews&version=4.1.22.6014&platform=win&nwr_flag=1#wechat_redirect)
 - 【深信服】 [又有员工被钓鱼攻击？半夜三点我从梦中惊醒](https://mp.weixin.qq.com/s/fG1NgkjIYAA8EOPxU_82hg)
 - 【安恒】[安恒信息恒脑·安全垂域大模型详解](https://mp.weixin.qq.com/s/mGEbPdvWQBr1h_dC_kPkmg?from=industrynews&version=4.1.22.8029&platform=win&nwr_flag=1#wechat_redirect)
+- 【深信服】[九问安全GPT，深信服请回答！](https://www.sangfor.com.cn/blog/5d0a354305be4d488f78a6e4624add86)
 
 
 ## 安全大模型论文或资料跟踪 ##
