@@ -13,3 +13,5 @@
     - FLASH: A Comprehensive Approach to Intrusion Detection via Provenance Graph Representation Learning [Paper](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a139/1Ub23WQw20U) [Github](https://github.com/DART-Laboratory/Flash-IDS)
 - APT
     - Detecting complex multi-step attacks with explainable graph neural network [Paper](https://arxiv.org/pdf/2405.11335)
+- 加密流量
+    - DE-GNN: Dual embedding with graph neural network for fine-grained encrypted traffic classification [Paper ELSEVIER 2024](https://www.sciencedirect.com/science/article/pii/S1389128624002044)
