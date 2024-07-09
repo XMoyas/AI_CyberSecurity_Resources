@@ -67,7 +67,8 @@
 
 
 11、AI+CyberSecurity经验总结  
-   - Web安全检测中机器学习的经验之谈 [[博客](https://iami.xyz/ML-IN-Webshell-Detection-Advantages-And-Disadvantages/)]  
+   - Web安全检测中机器学习的经验之谈 [[博客](https://iami.xyz/ML-IN-Webshell-Detection-Advantages-And-Disadvantages/)]
+   - 网络安全岗面试试题记录及经验总结 [[Github](https://github.com/vvmdx/Sec-Interview-4-2023)]
 
 
 12、AI+CyberSecurity数据合集
