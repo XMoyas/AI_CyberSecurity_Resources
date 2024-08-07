@@ -38,7 +38,17 @@
 - 2024
      - 【数说安全】安全大模型技术与市场研究报告 [Report](https://github.com/XMoyas/AI_CyberSecurity_Resources/blob/main/AI4LLM/paper/%E5%AE%89%E5%85%A8%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%B8%82%E5%9C%BA%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A_%E6%95%B0%E8%AF%B4%E5%AE%89%E5%85%A8.pdf)
 
-  
+
+## 模型部署推理服务
+- vLLM
+     - vLLM官方网站 [Github](https://github.com/vllm-project/vllm)
+     - 大模型推理：vllm多机多卡分布式本地部署 [Blog](https://blog.csdn.net/sunny0121/article/details/139331035)
+     - 图解大模型计算加速系列：vLLM源码解析1，整体架构 [公众号](https://mp.weixin.qq.com/s/7vJdWFt9SHP1xh9OuEVDRg)
+- sglang
+- triton inference serving & TensorRT-LLM
+     - tensorrtllm_backbend 官网网站 [Github](https://github.com/triton-inference-server/tensorrtllm_backend)
+
+
 ## 大模型算法竞赛方案 ##
 - [天池2023博金大模型挑战赛总结](https://mp.weixin.qq.com/s/p7yEvJ06nitd9MBhxDtCgA)  (非安全方向)
 - [Kaggle. LLM - Detect AI Generated Text](https://www.kaggle.com/competitions/llm-detect-ai-generated-text) (识别AI生成文本)
