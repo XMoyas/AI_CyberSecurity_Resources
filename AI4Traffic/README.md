@@ -2,5 +2,7 @@
   - 论文
     - 2023
       - 【USENIX Security】Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation [Paper](https://www.usenix.org/system/files/usenixsecurity23-xie.pdf) [公众号](https://mp.weixin.qq.com/s/3pHLk5YFT8-lCJMCrcgzZQ)
+    - 2022
+      - 【ACM】ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification [Paper](https://dl.acm.org/doi/10.1145/3485447.3512217) [公众号](https://mp.weixin.qq.com/s/m1n4R61SmfygCCctSlzXhw)
   - 文章
     - 观成科技：基于深度学习技术的APT加密流量检测与分类检测方案 [公众号](https://mp.weixin.qq.com/s/d7Lu03oDA1Gbi75W3irtvA)
