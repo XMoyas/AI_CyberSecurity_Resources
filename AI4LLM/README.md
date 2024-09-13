@@ -28,10 +28,14 @@
      - Detecting Phishing Sites Using ChatGPT [Paper](https://arxiv.org/pdf/2306.05816)
 - 知识图谱：
      - AttacKG+:Boosting Attack Knowledge Graph Construction with Large Language Models [Paper](https://arxiv.org/pdf/2405.04753)
-- 日志分析：Interpretable Online Log Analysis Using Large Language Models with Prompt Strategies [Paper](https://arxiv.org/abs/2308.07610) [Github](https://github.com/lunyiliu/LogPrompt)
-     - 延伸阅读1：知识增强的日志预训练 [Paper](https://dl.acm.org/doi/10.1145/3597503.3623304) [Report](https://mp.weixin.qq.com/s/OGTyr--W3dBhPBA6Tsm5dQ)
+- 日志分析:
+    - Interpretable Online Log Analysis Using Large Language Models with Prompt Strategies [Paper](https://arxiv.org/abs/2308.07610) [Github](https://github.com/lunyiliu/LogPrompt)
+    - Using Large Language Models for Template Detection from Security Event Logs [Paper](https://arxiv.org/pdf/2409.05045)
+    - 延伸阅读1：知识增强的日志预训练 [Paper](https://dl.acm.org/doi/10.1145/3597503.3623304) [Report](https://mp.weixin.qq.com/s/OGTyr--W3dBhPBA6Tsm5dQ)
 - webshell:
      - webshell生成：Large Language Models are Few-shot Generators:Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples [Paper](https://arxiv.org/abs/2402.07408)
+- 数据安全：
+     - Catch Me if You Can: Detecting Unauthorized Data Use in Deep Learning Models [Paper](https://arxiv.org/pdf/2409.06280)
 
 
 ## 安全大模型研究报告
