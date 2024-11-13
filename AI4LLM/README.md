@@ -24,6 +24,7 @@
      - Generative AI and Large Language Models for Cyber Security: All Insights You Need [Paper](https://arxiv.org/pdf/2405.12750)
 - 恶意软件：
      - Prompt Engineering-assisted Malware Dynamic Analysis Using GPT-4 [Paper](https://mp.weixin.qq.com/s/zIAYb4jF-f5rsEFLNQPbww) [[Github](https://github.com/yan-scnu/Prompted_Dynamic_Detection)]
+     - 大模型技术在恶意软件分析中的实践 [公众号](https://mp.weixin.qq.com/s/dWgxOZLVUyHi1maUjdUDaQ)  
 - 钓鱼邮件：
      - Detecting Phishing Sites Using ChatGPT [Paper](https://arxiv.org/pdf/2306.05816)
 - 知识图谱：
