@@ -18,6 +18,9 @@
 - 强化学习：
   - 人类偏好优化算法哪家强？跟着高手一文学懂DPO、IPO和KTO：[公众号链接](https://mp.weixin.qq.com/s/BcWqUN7SSi8q4Tsr7bFmTQ)
   - 最透彻的大模型PPO原理和源码解读：[公众号链接](https://mp.weixin.qq.com/s/F70l-22guVeTukupqQmiFg)
+
+- Prompt:
+  - 微软和麻省理工权威发布：Prompt格式显著影响LLM性能，JSON比Markdown准确性高42% [公众号链接](https://mp.weixin.qq.com/s/Do3v_pX8IEaAe7EA1o7ycg)  
   
 
 ## 优质LLM公众号推荐
