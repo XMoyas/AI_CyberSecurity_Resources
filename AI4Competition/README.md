@@ -1,12 +1,14 @@
 # 记录网络安全相关的比赛及相关资料
 
 - 进行中|待进行
-   - 生成式人工智能安全大赛（安全攻击、安全检测、对齐防护） [官网](http://galaxy.iie.ac.cn/competitionPassage)  报名截止日期：2024-5-32，初赛日期：2024-6-1~2024-6-30
+  
 
 <details>
-<summary>已结束</summary>
-
-1. 【2023】ATEC科技精英大赛2023.网络安全大模型 [[赛道四](https://www.atecup.cn/matchHomeDetails/100001/100004)] **进行中**，赛事：20231206~20240201
+<summary>已结束</summary>  
+   
+9. 【2024】生成式人工智能安全大赛（安全攻击、安全检测、对齐防护） [官网](http://galaxy.iie.ac.cn/competitionPassage) **已结束**，赛事 202405~202408
+    
+8. 【2023】ATEC科技精英大赛2023.网络安全大模型 [[赛道四](https://www.atecup.cn/matchHomeDetails/100001/100004)] **已结束**，赛事：20231206~20240201
 
 7. 【2023】天池.ICDAR2023.阿里安全.挑战赛：篡改文本检测 [[赛道一](https://tianchi.aliyun.com/competition/entrance/532048/introduction)][[赛道二](https://tianchi.aliyun.com/competition/entrance/532052/introduction)]，**已结束**，赛事：20230215~20230331
    
