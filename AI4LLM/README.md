@@ -52,6 +52,8 @@
 - sglang
 - triton inference serving & TensorRT-LLM
      - tensorrtllm_backbend 官网网站 [Github](https://github.com/triton-inference-server/tensorrtllm_backend)
+- GPUStack
+     - GPUStack [Github](https://github.com/gpustack/gpustack)  
 
 
 ## 大模型算法竞赛方案 ##
