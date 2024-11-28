@@ -1,5 +1,7 @@
 - 加密流量检测
   - 论文
+    - 2024
+      - 【IEEE TDSA】RBLJAN: Robust Byte-Label Joint Attention Network for Network Traffic Classification [Paper](https://ieeexplore.ieee.org/document/10714011)    
     - 2023
       - 【USENIX Security】Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation [Paper](https://www.usenix.org/system/files/usenixsecurity23-xie.pdf) [公众号](https://mp.weixin.qq.com/s/3pHLk5YFT8-lCJMCrcgzZQ)
     - 2022
