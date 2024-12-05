@@ -37,6 +37,8 @@
      - webshell生成：Large Language Models are Few-shot Generators:Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples [Paper](https://arxiv.org/abs/2402.07408)
 - 数据安全：
      - Catch Me if You Can: Detecting Unauthorized Data Use in Deep Learning Models [Paper](https://arxiv.org/pdf/2409.06280)
+- 安全运营：
+     - 【2024】AttackQA: Development and Adoption of a Dataset for Assisting Cybersecurity Operations Using Fine-Tuned and Open-Source LLMs [Paper](https://arxiv.org/pdf/2411.01073)  
 
 
 ## 安全大模型研究报告
