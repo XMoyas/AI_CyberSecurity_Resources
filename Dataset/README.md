@@ -21,3 +21,5 @@
 ### 流量类型 ###
 - 国防科大移动应用流量数据集，超600G,350余种应用流量 : [[Dataset](https://github.com/Abby-ZS/NUDT_MobileTraffic)]
 
+#### 大模型安全能力评测 ###
+- 亚新安全自建数据集用于评估大模型的安全专项能力： [[LLMs-Sec-Eval](https://github.com/yaozhspider/LLMs-Sec-Eval)]  
