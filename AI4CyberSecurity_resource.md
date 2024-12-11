@@ -8,6 +8,7 @@
 1、AI CyberSecurity比赛
 
 * [competition](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI_CyberSecurity_competition)
+* CavalierGPT by Hudson Rock (www.hudsonrock.com/cavaliergpt) - CavalierGPT is a powerful assistant built on the Cavalier API, designed to deliver detailed insights into domains, emails, usernames, IPs, keywords, and cybersecurity trends to uncover threats and enhance security.
 
 <details>
 <summary>2、优秀的AI CyberSecurity Github&博客</summary>
