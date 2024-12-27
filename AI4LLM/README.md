@@ -49,6 +49,10 @@
      - 【数说安全】安全大模型技术与市场研究报告 [Report](https://github.com/XMoyas/AI_CyberSecurity_Resources/blob/main/AI4LLM/paper/%E5%AE%89%E5%85%A8%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%B8%82%E5%9C%BA%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A_%E6%95%B0%E8%AF%B4%E5%AE%89%E5%85%A8.pdf)
 
 
+## 大模型安全能力评估
+- 安全能力评估数据集：[安全数据集](https://github.com/XMoyas/AI_CyberSecurity_Resources/blob/main/Dataset/README.md)  
+
+
 ## 模型部署推理服务
 - vLLM
      - vLLM官方网站 [Github](https://github.com/vllm-project/vllm)
