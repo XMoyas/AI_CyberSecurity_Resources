@@ -68,3 +68,4 @@
 ## 大模型算法竞赛方案 ##
 - [天池2023博金大模型挑战赛总结](https://mp.weixin.qq.com/s/p7yEvJ06nitd9MBhxDtCgA)  (非安全方向)
 - [Kaggle. LLM - Detect AI Generated Text](https://www.kaggle.com/competitions/llm-detect-ai-generated-text) (识别AI生成文本)
+- 【2024】[DF-RAG在智能问答场景中的落地](https://github.com/Galaxy-JewXW/tugraph4ai/tree/master)
