@@ -7,7 +7,7 @@
 
 1、AI CyberSecurity比赛
 
-* [competition](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI_CyberSecurity_competition)
+* [competition](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI4competition)
 
 <details>
 <summary>2、优秀的AI CyberSecurity Github&博客</summary>
@@ -48,7 +48,7 @@
 </details>
 
 6、AI+Web攻击检测篇
-* [AI 安全](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI_CyberSecurity_web)
+* [AI 安全](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI4WebCyber)
 
 
 7、CyberSecurity之知识图谱篇
@@ -56,11 +56,11 @@
 
 
 8、CyberSecurity之DGA/DNS/DoH隐蔽隧道篇
-[DNS_DOT_DOH](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI_CyberSecurity_web/DNS_DOH)
+[DNS_DOT_DOH](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI4WebCyber/DNS_DOH)
 
 
 9、CyberSecurity之图神经网络
-[AI安全之图神经网络](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI_CyberSecurity_GNN)  
+[AI安全之图神经网络](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI4GNN)  
 
 
 10、AI模型安全篇
