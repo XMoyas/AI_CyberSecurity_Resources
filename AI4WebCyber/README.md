@@ -1,5 +1,9 @@
 **包含AI在web安全方面的应用，包括但不限于SQL注入、XSS注入、webshell、命令注入、代码执行、漏洞检测等，包含相关的开源代码、论文、专利、博客、数据集等**
 
+## web
+【2024】【CCS-深信服】[SWIDE: A Semantic-aware Detection Engine for Successful Web Injection Attacks](https://dl.acm.org/doi/10.1145/3658644.3670304)  
+
+
 ## SQL注入
 [SQL注入检测与防御](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI4WebCyber/SQL%E6%B3%A8%E5%85%A5)
 
