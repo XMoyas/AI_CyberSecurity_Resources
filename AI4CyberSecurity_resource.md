@@ -7,7 +7,7 @@
 
 1、AI CyberSecurity比赛
 
-* [competition](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI4competition)
+* [competition](https://github.com/XMoyas/AI_CyberSecurity_Resources/tree/main/AI4Competition)
 
 <details>
 <summary>2、优秀的AI CyberSecurity Github&博客</summary>
