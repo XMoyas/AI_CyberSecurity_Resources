@@ -10,7 +10,7 @@
 :palm_tree: 网络安全大模型相关资料（**2024年主要更新方向** ）  
 :leaves: 开源数据集：SQLi、XSS、流量数据、日志数据等
 :earth_africa: 其他AI在该领域有趣的应用  
-:trophy:[仓库总览](https://github.com/XMoyas/AI_CyberSecurity_Resources/blob/main/AI_CyberSecurity_Resources.md)
+:trophy:[仓库总览](https://github.com/XMoyas/AI_CyberSecurity_Resources/blob/main/AI4CyberSecurity_resource.md)
 
 --
 当前断续更新中.....
