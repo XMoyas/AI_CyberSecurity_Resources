@@ -10,6 +10,13 @@
 - 预训练
   - OLMo:真正意义上的开源，包括训练代码、训练数据、评估代码等：[AI2-OLMo](https://mp.weixin.qq.com/s/uB6jxCWDTJhtFsh9Bc_DYQ) [训练代码](https://github.com/allenai/OLMo) [训练数据&工具](https://github.com/allenai/dolma) [评估](https://github.com/allenai/OLMo-Eval) [微调](https://github.com/allenai/open-instruct) [paper](https://arxiv.org/abs/2402.00838) [博客](https://blog.allenai.org/olmo-open-language-model-87ccfc95f580)
 
+- 智能体Agent
+  - 了解Agent
+    - 工作流Workflow vs 智能体Agent: [公众号](https://mp.weixin.qq.com/s/--oOMlbeqE98kE_yjksGmw?color_scheme=light)
+    - 一步步教你如何构建一个通用的大模型智能体：[公众号](https://mp.weixin.qq.com/s/fjVu-sDaOwz3yj3F_YiU9Q?color_scheme=light)  
+  - Agent简单实现
+    - 基于qwen2.5 7b的智能体示例: [虹粉世家-公众号](https://mp.weixin.qq.com/s/jaG_RhoyEafufmaD7W0Y1g?color_scheme=light)
+    - 基于LangGraph的多智能体系统：[赛博零号-公众号](https://mp.weixin.qq.com/s/SDnaHu3_HYPHMU12Wb3naw?color_scheme=light)  
 
 ## 资料汇总
 - 模型微调：
