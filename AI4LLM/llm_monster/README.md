@@ -12,6 +12,7 @@
 
 - 智能体Agent
   - 了解Agent
+    - 台湾大学-李宏毅2025春季Agent课程：[台湾大学](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php)
     - 工作流Workflow vs 智能体Agent: [公众号](https://mp.weixin.qq.com/s/--oOMlbeqE98kE_yjksGmw?color_scheme=light)
     - 一步步教你如何构建一个通用的大模型智能体：[公众号](https://mp.weixin.qq.com/s/fjVu-sDaOwz3yj3F_YiU9Q?color_scheme=light)  
   - Agent简单实现
