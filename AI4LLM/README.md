@@ -51,7 +51,8 @@
 
 
 ## 大模型安全能力评估
-- 安全能力评估数据集：[安全数据集](https://github.com/XMoyas/AI_CyberSecurity_Resources/blob/main/Dataset/README.md)  
+- 安全能力评估数据集：[安全数据集](https://github.com/XMoyas/AI_CyberSecurity_Resources/blob/main/Dataset/README.md)
+- 【NuerIPS 2024】CTIBench: A Benchmark for Evaluating LLMs in Cyber Threat Intelligence: [Paper&Github](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5acd3c628aa1819fbf07c39ef73e7285-Abstract-Datasets_and_Benchmarks_Track.html)
 
 
 ## 模型部署推理服务
