@@ -17,7 +17,10 @@
     - 一步步教你如何构建一个通用的大模型智能体：[公众号](https://mp.weixin.qq.com/s/fjVu-sDaOwz3yj3F_YiU9Q?color_scheme=light)  
   - Agent简单实现
     - 基于qwen2.5 7b的智能体示例: [虹粉世家-公众号](https://mp.weixin.qq.com/s/jaG_RhoyEafufmaD7W0Y1g?color_scheme=light)
-    - 基于LangGraph的多智能体系统：[赛博零号-公众号](https://mp.weixin.qq.com/s/SDnaHu3_HYPHMU12Wb3naw?color_scheme=light)  
+    - 基于LangGraph的多智能体系统：[赛博零号-公众号](https://mp.weixin.qq.com/s/SDnaHu3_HYPHMU12Wb3naw?color_scheme=light)
+- RAG
+  - RAG实践练习
+    - RAG入门者理解核心组件和流程的本地化智能问答项目: [ 本地化智能问答系统](https://github.com/weiwill88/Local_Pdf_Chat_RAG/tree/main)
 
 ## 资料汇总
 - 模型微调：
