@@ -1,6 +1,8 @@
 # 记录网络安全相关的比赛及相关资料
 
 - 进行中|待进行
+  - IJCAI 2025 生成式大模型安全攻防比赛： [2025-天池](https://tianchi.aliyun.com/competition/entrance/532362?spm=a2c22.12281949.0.0.58693b74AqpRob), 6月30号结束
+  - CCKS2025-大模型生成文本检测：[2025-天池](https://tianchi.aliyun.com/competition/entrance/532358?spm=a2c22.12281949.0.0.58693b74AqpRob), A榜7月15号截止，B榜7月21号结束
   
 
 <details>
