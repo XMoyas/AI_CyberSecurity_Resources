@@ -52,8 +52,11 @@
 
 ## 大模型安全能力评估
 - 安全能力评估数据集：[安全数据集](https://github.com/XMoyas/AI_CyberSecurity_Resources/blob/main/Dataset/README.md)
-- 【NuerIPS 2024】CTIBench: A Benchmark for Evaluating LLMs in Cyber Threat Intelligence: [Paper&Github](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5acd3c628aa1819fbf07c39ef73e7285-Abstract-Datasets_and_Benchmarks_Track.html)
-- 【Arxiv 2025】SecReEvalBench: A Real-World Scenario-Based Security Resilience Benchmark for Large Language Models: [Github](https://github.com/VeraaaCUI/SecReEvalBench/tree/main) 、[Paper](https://arxiv.org/pdf/2505.07584)
+- 【NuerIPS 2024-威胁情报类别】CTIBench: A Benchmark for Evaluating LLMs in Cyber Threat Intelligence: [Paper&Github](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5acd3c628aa1819fbf07c39ef73e7285-Abstract-Datasets_and_Benchmarks_Track.html)
+- 【Arxiv 2025-提示注入类别】SecReEvalBench: A Real-World Scenario-Based Security Resilience Benchmark for Large Language Models: [Github](https://github.com/VeraaaCUI/SecReEvalBench/tree/main) 、[Paper](https://arxiv.org/pdf/2505.07584)
+- 【Arxiv 2024-安全漏洞和防御类别】CYBERSECEVAL 2: A Wide-Ranging
+ Cybersecurity Evaluation Suite for Large
+ Language Models: [Github](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks) [Paper](https://arxiv.org/pdf/2404.13161)
 
 
 ## 模型部署推理服务
