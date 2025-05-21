@@ -10,6 +10,9 @@
 - 预训练
   - OLMo:真正意义上的开源，包括训练代码、训练数据、评估代码等：[AI2-OLMo](https://mp.weixin.qq.com/s/uB6jxCWDTJhtFsh9Bc_DYQ) [训练代码](https://github.com/allenai/OLMo) [训练数据&工具](https://github.com/allenai/dolma) [评估](https://github.com/allenai/OLMo-Eval) [微调](https://github.com/allenai/open-instruct) [paper](https://arxiv.org/abs/2402.00838) [博客](https://blog.allenai.org/olmo-open-language-model-87ccfc95f580)
 
+- SFT
+  - unsloth微调实践代码：[unsloth微调llama3全过程](https://www.cnblogs.com/shanren/p/18251730)、[A Step-by-Step Coding Guide to Efficiently Fine-Tune Qwen3-14B Using Unsloth AI on Google Colab with Mixed Datasets and LoRA Optimization](https://www.marktechpost.com/2025/05/20/a-step-by-step-coding-guide-to-efficiently-fine-tune-qwen3-14b-using-unsloth-ai-on-google-colab-with-mixed-datasets-and-lora-optimization/)
+
 - 智能体Agent
   - 了解Agent
     - 台湾大学-李宏毅2025春季Agent课程：[台湾大学](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php)
