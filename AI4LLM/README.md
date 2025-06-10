@@ -57,6 +57,7 @@
 - 【Arxiv 2024-安全漏洞和防御类别】CYBERSECEVAL 2: A Wide-Ranging
  Cybersecurity Evaluation Suite for Large
  Language Models: [Github](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks) [Paper](https://arxiv.org/pdf/2404.13161)
+- 【Arxiv 2025-AI Agent安全能力】Evaluating AI Agents’ Cybersecurity Capabilities with Real-World Vulnerabilities at Scale：[Paper](https://arxiv.org/pdf/2506.02548)、[Github](https://github.com/sunblaze-ucb/cybergym) 
 
 
 ## 模型部署推理服务
