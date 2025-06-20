@@ -24,6 +24,8 @@
 - RAG
   - RAG实践练习
     - RAG入门者理解核心组件和流程的本地化智能问答项目: [ 本地化智能问答系统](https://github.com/weiwill88/Local_Pdf_Chat_RAG/tree/main)
+- 文档智能
+    - 【表格RAG-2024】TAP4LLM:Table Provider on Sampling, Augmenting, and PackingSemi-structured Data for Large Language Model Reasoning [Paper](https://arxiv.org/pdf/2312.09039)
 
 ## 资料汇总
 - 模型微调：
