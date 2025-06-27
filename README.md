@@ -7,7 +7,8 @@
 该仓库目前主要记录**Web安全/LLM方向**的机器学习算法方案，包含  
 :golf: 目前进行中/即将开始/已结束的安全算法竞赛  
 :four_leaf_clover: Web攻击检测文章、开源方案、开源检测工具等  
-:palm_tree: 网络安全大模型相关资料（**2024年主要更新方向** ）  
+:palm_tree: 网络安全大模型相关资料（**2025年主要更新方向** ）  
+:palm_tree: 大模型应用相关资料（**2025年主要更新方向** ）  
 :leaves: 开源数据集：SQLi、XSS、流量数据、日志数据等
 :earth_africa: 其他AI在该领域有趣的应用  
 :trophy:[仓库总览](https://github.com/XMoyas/AI_CyberSecurity_Resources/blob/main/AI4CyberSecurity_resource.md)
