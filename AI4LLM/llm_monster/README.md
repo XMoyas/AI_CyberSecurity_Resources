@@ -24,6 +24,7 @@
     - 基于LangGraph的多智能体系统：[赛博零号-公众号](https://mp.weixin.qq.com/s/SDnaHu3_HYPHMU12Wb3naw?color_scheme=light)
   - MCP协议
     - 本地Qwen3-4B模型也能跑通MCP——MCP代码实战：[王博LLM-公众号](https://mp.weixin.qq.com/s/8rizKj9BZwIylEZ2Gt2_MQ?color_scheme=light)
+    - 多文档RAG引擎的 MCP Server（支持PPT智能解析与问答）：[Github](https://github.com/pingcy/app_chatppt)
 - RAG
   - RAG实践练习
     - RAG入门者理解核心组件和流程的本地化智能问答项目: [ 本地化智能问答系统](https://github.com/weiwill88/Local_Pdf_Chat_RAG/tree/main)
