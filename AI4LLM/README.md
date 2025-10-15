@@ -31,6 +31,7 @@
      - 【2024】APOLLO: A GPT-based tool to detect phishing emails and generate explanations that warn users [Paper](https://arxiv.org/pdf/2410.07997) [Code](https://anonymous.4open.science/r/APOLLO-658A/README.md)
      - 【2025】PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detectio[Paper](https://arxiv.org/pdf/2506.15656)
 - 知识图谱&威胁情报：
+     - 【2024 C&S】 LLM-TIKG: Threat intelligence knowledge graph construction utilizing large language model [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167404824003043)
      - 【2025 S&P】CTINexus: Automatic Cyber Threat Intelligence Knowledge Graph Construction Using Large Language Models [Paper](https://arxiv.org/abs/2410.21060)  [Github](https://ctinexus.github.io/)
      - AttacKG+:Boosting Attack Knowledge Graph Construction with Large Language Models [Paper](https://arxiv.org/pdf/2405.04753)
 - 日志分析:
