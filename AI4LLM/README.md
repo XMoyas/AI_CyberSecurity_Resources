@@ -20,7 +20,7 @@
      - HackMentor: Fine-Tuning Large Language Models for Cybersecurity [[Github](https://github.com/tmylla/HackMentor/blob/main/README-ZH.md)]
      - 专注于未来安全领域智能革命的知识库-GPTsecurity [[Github](https://github.com/mo-xiaoxi/GPTSecurity)]
      - 构建安全领域大模型数据的技术实践 [公众号](https://mp.weixin.qq.com/s/0yCmQQVg0ZS_WqjNdOQEQg)
-     - 【2025】CYBERPAL.AI: EMPOWERING LLMS WITH EXPERT DRIVEN CYBERSECURITY INSTRUCTIONS [Paper](https://arxiv.org/pdf/2510.14113v1)
+     - 【2025】TOWARD CYBERSECURITY-EXPERT SMALL LANGUAGE MODELS [Paper](https://arxiv.org/pdf/2510.14113v1)
 - 安全大模型综述：
      - Large Language Models for Cyber Security: A Systematic Literature Review [Paper](https://arxiv.org/pdf/2405.04760)
      - Generative AI and Large Language Models for Cyber Security: All Insights You Need [Paper](https://arxiv.org/pdf/2405.12750)
