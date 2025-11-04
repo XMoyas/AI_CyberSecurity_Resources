@@ -22,6 +22,7 @@
   - Agent简单实现
     - 基于qwen2.5 7b的智能体示例: [虹粉世家-公众号](https://mp.weixin.qq.com/s/jaG_RhoyEafufmaD7W0Y1g?color_scheme=light)
     - 基于LangGraph的多智能体系统：[赛博零号-公众号](https://mp.weixin.qq.com/s/SDnaHu3_HYPHMU12Wb3naw?color_scheme=light)
+    - 微舆 多智能体 舆情分析系统： [Github](https://github.com/666ghj/BettaFish)  
   - MCP协议
     - 本地Qwen3-4B模型也能跑通MCP——MCP代码实战：[王博LLM-公众号](https://mp.weixin.qq.com/s/8rizKj9BZwIylEZ2Gt2_MQ?color_scheme=light)
     - 多文档RAG引擎的 MCP Server（支持PPT智能解析与问答）：[Github](https://github.com/pingcy/app_chatppt)
