@@ -21,6 +21,9 @@
      - 专注于未来安全领域智能革命的知识库-GPTsecurity [[Github](https://github.com/mo-xiaoxi/GPTSecurity)]
      - 构建安全领域大模型数据的技术实践 [公众号](https://mp.weixin.qq.com/s/0yCmQQVg0ZS_WqjNdOQEQg)
      - 【2025】TOWARD CYBERSECURITY-EXPERT SMALL LANGUAGE MODELS [Paper](https://arxiv.org/pdf/2510.14113v1)
+- 内容安全检测大模型
+     - 【2025】象信智能科技-OpenGuardrails-Text-2510用于内容安全检测和提示攻击防护 [modelscope](https://www.modelscope.cn/models/xiangxinai/OpenGuardrails-Text-2510/summary)
+     - 【2025】阿里通义千问-Qwen3Guard安全审核大模型 [modelscope](https://www.modelscope.cn/models/Qwen/Qwen3Guard-Gen-0.6B)
 - 安全大模型综述：
      - Large Language Models for Cyber Security: A Systematic Literature Review [Paper](https://arxiv.org/pdf/2405.04760)
      - Generative AI and Large Language Models for Cyber Security: All Insights You Need [Paper](https://arxiv.org/pdf/2405.12750)
