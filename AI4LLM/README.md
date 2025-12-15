@@ -24,6 +24,7 @@
 - 内容安全检测大模型
      - 【2025】象信智能科技-OpenGuardrails-Text-2510用于内容安全检测和提示攻击防护 [modelscope](https://www.modelscope.cn/models/xiangxinai/OpenGuardrails-Text-2510/summary)
      - 【2025】阿里通义千问-Qwen3Guard安全审核大模型 [modelscope](https://www.modelscope.cn/models/Qwen/Qwen3Guard-Gen-0.6B)
+     - 【2025】MiniGuard-v0.1-LLM输入输出内容安全分类大模型 [HuggingFace](https://huggingface.co/prem-research/MiniGuard-v0.1)  
 - 安全大模型综述：
      - Large Language Models for Cyber Security: A Systematic Literature Review [Paper](https://arxiv.org/pdf/2405.04760)
      - Generative AI and Large Language Models for Cyber Security: All Insights You Need [Paper](https://arxiv.org/pdf/2405.12750)
