@@ -29,6 +29,7 @@
 - RAG
   - RAG实践练习
     - RAG入门者理解核心组件和流程的本地化智能问答项目: [ 本地化智能问答系统](https://github.com/weiwill88/Local_Pdf_Chat_RAG/tree/main)
+    - 基于GraphRAG和Native RAG协作的RAG项目Demo示意：[基于GraphRAG和Native RAG协作的RAG项目Demo](https://mp.weixin.qq.com/s/FzSwNRJa3aY9vtOdwlJ2EQ?color_scheme=light)
   - 融合GraphRAG、LightRAG和DeepSeach实现私域RAG：[graph-rag-agent](https://github.com/1517005260/graph-rag-agent)
   - 源码讲解：Deepseacher、ChainOfRAG动态子查询优化RAG流程: [cs的陋室-公众号](https://mp.weixin.qq.com/s/mU74l6oTLPhHTpz91nKDig?color_scheme=light) [deep-search](https://github.com/zilliztech/deep-searcher)
   - 利用langchain、langgraph、RAGAS打造生产级复杂RAG系统 [Github](https://github.com/FareedKhan-dev/complex-RAG-guide/blob/main/README.md)
