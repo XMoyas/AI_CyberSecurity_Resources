@@ -33,6 +33,7 @@
   - 融合GraphRAG、LightRAG和DeepSeach实现私域RAG：[graph-rag-agent](https://github.com/1517005260/graph-rag-agent)
   - 源码讲解：Deepseacher、ChainOfRAG动态子查询优化RAG流程: [cs的陋室-公众号](https://mp.weixin.qq.com/s/mU74l6oTLPhHTpz91nKDig?color_scheme=light) [deep-search](https://github.com/zilliztech/deep-searcher)
   - 利用langchain、langgraph、RAGAS打造生产级复杂RAG系统 [Github](https://github.com/FareedKhan-dev/complex-RAG-guide/blob/main/README.md)
+  - mem3r-基于LangGraph用于解决长对话场景的Agentic RAG系统： [Github](https://github.com/Leagein/memr3/tree/main)    
 
 - DeepSearch
   - 阿里通义千问Tongyi-Deepreseach模型及React实现：[ModelScope](https://modelscope.cn/models/iic/Tongyi-DeepResearch-30B-A3B) [Github](https://github.com/pingcy/TongyiDeepResearch-LangGraph/tree/main) [基于LangGraph实现的React实现](https://github.com/pingcy/TongyiDeepResearch-LangGraph/tree/main)    
