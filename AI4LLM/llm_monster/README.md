@@ -8,6 +8,7 @@
   - 大模型算法工程师相关知识及面试题： [Github](https://github.com/wdndev/llm_interview_note/tree/main) [Github-yvanyao](https://yycsu.github.io/)
   - huggingface learn: [NLP Course](https://huggingface.co/learn)
   - 深度学习系统笔记：[dl_note](https://github.com/HarleysZhang/dl_note/tree/main)
+  - 53AI知识库，AI前沿知识与应用场景: [53 AI知识库](https://www.53ai.com/news)
 - 预训练
   - OLMo:真正意义上的开源，包括训练代码、训练数据、评估代码等：[AI2-OLMo](https://mp.weixin.qq.com/s/uB6jxCWDTJhtFsh9Bc_DYQ) [训练代码](https://github.com/allenai/OLMo) [训练数据&工具](https://github.com/allenai/dolma) [评估](https://github.com/allenai/OLMo-Eval) [微调](https://github.com/allenai/open-instruct) [paper](https://arxiv.org/abs/2402.00838) [博客](https://blog.allenai.org/olmo-open-language-model-87ccfc95f580)
 
