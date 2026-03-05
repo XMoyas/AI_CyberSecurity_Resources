@@ -36,7 +36,7 @@
   - 利用langchain、langgraph、RAGAS打造生产级复杂RAG系统 [Github](https://github.com/FareedKhan-dev/complex-RAG-guide/blob/main/README.md)
   - mem3r-基于LangGraph用于解决长对话场景的Agentic RAG系统： [Github](https://github.com/Leagein/memr3/tree/main)    
   - Agentic RAG 阅读材料
-    - Cursor 用文件系统重构上下文工程：5个实践讲透 [53AI](https://www.53ai.com/news/RAG/2026011335708.html
+    - Cursor 用文件系统重构上下文工程：5个实践讲透 [53AI](https://www.53ai.com/news/RAG/2026011335708.html)
     - Lessons from Building Claude Code: Seeing like an Agent [twitter](https://www.techtwitter.com/articles/lessons-from-building-claude-code-seeing-like-an-agent)
 - DeepSearch
   - 阿里通义千问Tongyi-Deepreseach模型及React实现：[ModelScope](https://modelscope.cn/models/iic/Tongyi-DeepResearch-30B-A3B) [Github](https://github.com/pingcy/TongyiDeepResearch-LangGraph/tree/main) [基于LangGraph实现的React实现](https://github.com/pingcy/TongyiDeepResearch-LangGraph/tree/main)    
