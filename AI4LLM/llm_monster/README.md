@@ -19,7 +19,8 @@
   - 了解Agent
     - 台湾大学-李宏毅2025春季Agent课程：[台湾大学](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php)
     - 工作流Workflow vs 智能体Agent: [公众号](https://mp.weixin.qq.com/s/--oOMlbeqE98kE_yjksGmw?color_scheme=light)  [公众号2-更详细讲解](https://mp.weixin.qq.com/s/qyCLff0WG15bEQvjodF-GQ?color_scheme=light)
-    - 一步步教你如何构建一个通用的大模型智能体：[公众号](https://mp.weixin.qq.com/s/fjVu-sDaOwz3yj3F_YiU9Q?color_scheme=light)  
+    - 一步步教你如何构建一个通用的大模型智能体：[公众号](https://mp.weixin.qq.com/s/fjVu-sDaOwz3yj3F_YiU9Q?color_scheme=light)
+    - 万字长文解析Agent框架中的上下文管理策略: [公众号](https://mp.weixin.qq.com/s/TSpF-SpPsN2-NLsKuc8mXA?mpshare=1&scene=24&srcid=03233yDYcgGAjradCaXnzT56&sharer_shareinfo=3103ba72a8e15ab00af3d386d444d950&sharer_shareinfo_first=3103ba72a8e15ab00af3d386d444d950&ascene=14&devicetype=android-34&version=2800455a&nettype=cmnet&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQgit4AQSyK1fJ9XaUmSlQjBL2AQIE97dBBAEAAAAAADhHLQL5rPIAAAAOpnltbLcz9gKNyK89dVj0BlT7NkJEEY7KwA7jy33fcyBgaGQoBT4++hiQtSyqbCnftP0ajEs8rFzHYk6v4QUSE4JgmwC4HPM7EjUXCiKgDk2OQA1eWq/v4GnXJqKpAebJlADSCyGxKFUHSGgWv4p7SOChWeuLgx0K8R+FxDVQR/LVOjTyFnGKq5x715Vhmg+HCaNcHimcnmLK8ndzOSdJDVPZpMrGGrcH6gJOs1xQS6+nIdse8E0LZC/zoW0uAqMC7LzwGOuIDiOWRdWW1HKstCsLj+UmOhvJBdwOsC/bLg==&pass_ticket=QCTYJkKDX3RkG0SJGvPbjqmieGFUk8g13ncR9in4bVxVtRidOrPUG5Cbj7PyiEMI&wx_header=3&color_scheme=light)   
   - Agent简单实现
     - 基于qwen2.5 7b的智能体示例: [虹粉世家-公众号](https://mp.weixin.qq.com/s/jaG_RhoyEafufmaD7W0Y1g?color_scheme=light)
     - 基于LangGraph的多智能体系统：[赛博零号-公众号](https://mp.weixin.qq.com/s/SDnaHu3_HYPHMU12Wb3naw?color_scheme=light)
