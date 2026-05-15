@@ -40,6 +40,7 @@
   - Agentic RAG 阅读材料
     - Cursor 用文件系统重构上下文工程：5个实践讲透 [53AI](https://www.53ai.com/news/RAG/2026011335708.html)
     - Lessons from Building Claude Code: Seeing like an Agent [twitter](https://www.techtwitter.com/articles/lessons-from-building-claude-code-seeing-like-an-agent)
+    - Beyond Semantic Similarity:Rethinking Retrieval for Agentic Search via Direct Corpus Interaction【202605】： [Paper](https://arxiv.org/pdf/2605.05242)  [Github](https://github.com/DCI-Agent/DCI-Agent-Lite)  
 - DeepSearch
   - 阿里通义千问Tongyi-Deepreseach模型及React实现：[ModelScope](https://modelscope.cn/models/iic/Tongyi-DeepResearch-30B-A3B) [Github](https://github.com/pingcy/TongyiDeepResearch-LangGraph/tree/main) [基于LangGraph实现的React实现](https://github.com/pingcy/TongyiDeepResearch-LangGraph/tree/main)    
 - 文档智能
