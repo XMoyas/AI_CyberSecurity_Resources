@@ -21,6 +21,7 @@
      - 专注于未来安全领域智能革命的知识库-GPTsecurity [[Github](https://github.com/mo-xiaoxi/GPTSecurity)]
      - 构建安全领域大模型数据的技术实践 [公众号](https://mp.weixin.qq.com/s/0yCmQQVg0ZS_WqjNdOQEQg)
      - 【2025】TOWARD CYBERSECURITY-EXPERT SMALL LANGUAGE MODELS [Paper](https://arxiv.org/pdf/2510.14113v1)
+     - 【2026】BugTraceAI开源的可用于漏洞发现、POC生成、分级研判、技术报告撰写以及修复方案等的开源26/27B量化模型  [huggingface](https://huggingface.co/BugTraceAI)  
 - 内容安全检测大模型
      - 【2025】象信智能科技-OpenGuardrails-Text-2510用于内容安全检测和提示攻击防护 [modelscope](https://www.modelscope.cn/models/xiangxinai/OpenGuardrails-Text-2510/summary)
      - 【2025】阿里通义千问-Qwen3Guard安全审核大模型 [modelscope](https://www.modelscope.cn/models/Qwen/Qwen3Guard-Gen-0.6B)
