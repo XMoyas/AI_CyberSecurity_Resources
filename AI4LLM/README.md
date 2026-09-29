@@ -53,6 +53,7 @@
 - 安全运营：
      - 【2024】AttackQA: Development and Adoption of a Dataset for Assisting Cybersecurity Operations Using Fine-Tuned and Open-Source LLMs [Paper](https://arxiv.org/pdf/2411.01073)
      - 【2025】大语言模型与传统机器学习模型结合在未知威胁检测场景中的融合思路：[微信公众号](https://mp.weixin.qq.com/s/zb_XR4TMHfqnx21bqLj2yg)
+     - 【2026】REFINE: A Resilient Evolution Framework for Intelligent Enterprise Alert Triage in Security Operations Centers [Paper](https://arxiv.org/pdf/2609.32516)  
 - 恶意域名：
      -  【2024】Fine-tuning Large Language Models for DGA and DNS Exfiltration Detection [Paper](https://arxiv.org/pdf/2410.21723)  
 
